@@ -1,4 +1,11 @@
-<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+<%--
+  Created by IntelliJ IDEA.
+  User: lucreziarobustelli
+  Date: 12/05/2021
+  Time: 22:48
+  To change this template use File | Settings | File Templates.
+--%>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -23,9 +30,9 @@
 </head>
 <body>
 <div class="theme-layout">
-    <header class="stick transparent-header">
+    <header class="stick">
         <div class="container">
-            <div class="logo"><a href="#" title=""><img src="images/logo2.png" alt="" /></a></div><!-- Logo -->
+            <div class="logo"><a href="#" title=""><img src="images/logo.png" alt="" /></a></div><!-- Logo -->
             <div class="menus">
                 <nav>
                     <ul>
@@ -161,42 +168,41 @@
         </div><!-- Responsive Menu -->
     </div><!-- Responsive Header -->
 
+    <div class="page-top">
+        <div style="background:url(http://placehold.it/1600x839);" class="parallax"></div>
+        <div class="container">
+            <span>THE FUTURE OF</span>
+            <h3>DESERT <i>CONTACT</i></h3>
+        </div>
+    </div>
+
 
     <section>
-        <div class="block remove-gap remove-bottom gray">
+        <div class="block gray">
             <div class="row">
-                <div class="col-md-12">
-                    <div class="slider">
-                        <div class="tp-banner-container">
-                            <div class="tp-banner">
-                                <ul>
-                                    <li data-transition="zoomout" data-slotamount="10" data-masterspeed="1000" >
-                                        <img src="http://placehold.it/1600x839"  alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
-                                        <div class="tp-caption lft slide-subtitle2" data-x="center" data-y="250" data-speed="500" data-start="1000" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:22px;letter-spacing:20px;">THE FEATURE OF</div>
-                                        <div class="tp-caption sfb slide-title" data-x="center" data-y="330" data-speed="500" data-start="1400" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:80px;">Creative Portfolio</div>
-                                        <div class="tp-caption lfb blackish-title" data-x="center" data-y="430" data-speed="500" data-start="1800" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px;padding:10px 30px;">Fantastic theme and beautifully coded. It has been a pleasure to use</div>
-                                        <div class="tp-caption lfb coloured-title" data-x="center" data-y="500" data-speed="500" data-start="2200" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px;padding:10px 30px;">this template thank you</div>
-                                    </li><!-- Slide 1 -->
-
-                                    <li data-transition="zoomout" data-slotamount="10" data-masterspeed="1000" >
-                                        <img src="http://placehold.it/1600x839"  alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
-                                        <div class="tp-caption sft slide-title2" data-x="center" data-y="275" data-speed="500" data-start="1000" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:70px;letter-spacing:20px;">T<i>HE DE</i>SERT</div>
-                                        <div class="tp-caption sft slide-desc" data-x="center" data-y="370" data-speed="500" data-start="1400" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px; text-align:center;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam, autem ipsum dolor sit <br/> molestias nostrum suscipit doloribus, tempore dolorum corrupti. amet, consectetur </div>
-                                        <a href="raccoltaCampione.jsp" title=""  class="tp-caption sfr slide-btn" data-x="420" data-y="470" data-speed="500" data-start="1800" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px;padding:7px 40px;">Raccolta acqua</a>
-                                        <a href="monitoraFiume.jsp" title="" class="tp-caption sfl slide-btn" data-x="610" data-y="470" data-speed="500" data-start="2200" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px;padding:7px 40px;">Monitoraggio acqua</a>
-                                        <a href="segnalaFiume.jsp" title="" class="tp-caption sfl slide-btn" data-x="790" data-y="470" data-speed="500" data-start="2600" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px;padding:7px 40px;">Segnala fiume</a>
-                                    </li><!-- Slide 2 -->
-
-                                    <li data-transition="fadetotopfadefrombottom" data-slotamount="10" data-masterspeed="1000" >
-                                        <img src="http://placehold.it/1600x839"  alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
-                                        <div class="tp-caption sfb slide-title" data-x="0" data-y="240" data-speed="500" data-start="2000" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:70px;">Its All <span>About Beauty</span></div>
-                                        <div class="tp-caption sfb slide-subtitle" data-x="0" data-y="340" data-speed="500" data-start="2300" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:22px;letter-spacing:12px;padding:15px 40px;">The Futures Of Desert</div>
-                                        <div class="tp-caption sfb slide-desc" data-x="0" data-y="440" data-speed="500" data-start="2600" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam, autem <br/> molestias nostrum suscipit doloribus, tempore dolorum corrupti.</div>
-                                    </li><!-- Slide 3-->
-                                </ul>
+                <div class="col-md-12 column">
+                    <div class="contact-boxes">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="contact-box">
+                                    <i class="fa fa-home"></i>
+                                    <h5>Address:</h5><p>8500 Central, New York, Wdhri West CEO 12301</p>
+                                </div><!-- Contact Box -->
                             </div>
-                        </div><!-- REVOLUTION SLIDER -->
-                    </div><!-- Slider -->
+                            <div class="col-md-4">
+                                <div class="contact-box">
+                                    <i class="fa fa-phone"></i>
+                                    <h5>Phone No:</h5><p>+14 867 00 79 41</p><p>+14 867 00 79 41</p>
+                                </div><!-- Contact Box -->
+                            </div>
+                            <div class="col-md-4">
+                                <div class="contact-box">
+                                    <i class="fa fa-envelope"></i>
+                                    <h5>Email Address:</h5><p>desort@your-site.com</p><p>stillidea@gmail.com</p>
+                                </div><!-- Contact Box -->
+                            </div>
+                        </div>
+                    </div><!-- Contact Boxes -->
                 </div>
             </div>
         </div>
@@ -207,90 +213,22 @@
         <div class="block gray remove-gap">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12 column">
-                        <div class="row narrow">
-                            <div class="masonary overlap">
-                                <div class="col-md-4">
-                                    <div class="links">
-                                        <div class="link-inner">
-                                            <strong>1</strong>
-                                            <i class="fa fa-diamond"></i>
-                                            <span>Raccolta Campione</span>
-                                            <div>
-                                                <a href="raccoltaCampione.jsp" title=""  class="tp-caption sfr slide-btn" data-x="420" data-y="470" data-speed="500" data-start="1800" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px;padding:7px 40px; background-color: black; color: white;" >Vai</a>
-                                            </div>
-                                        </div>
-                                    </div><!-- Links -->
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="links">
-                                        <div class="link-inner">
-                                            <strong>02</strong>
-                                            <i class="fa fa-bolt"></i>
-                                            <span>Who We Are?</span>
-                                            <h3><a href="#" title="">Retina Ready </a></h3>
-                                            <p>Sicingio elitr, sed diam nonumy eir umod tempor invidu wnta liqmuerat</p>
-                                        </div>
-                                    </div><!-- Links -->
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="links">
-                                        <div class="link-inner">
-                                            <strong>03</strong>
-                                            <i class="fa fa-unlink"></i>
-                                            <span>Top Market</span>
-                                            <h3><a href="#" title="">Free Updates</a></h3>
-                                            <p>Sicingio elitr, sed diam nonumy eir umod tempor invidu wnta liqmuerat</p>
-                                        </div>
-                                    </div><!-- Links -->
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-    <section>
-        <div class="block remove-gap  remove-bottom gray">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 column">
-                        <div class="welcome-box">
-                            <span>Irreplaceable Experience Now.</span>
-                            <h3>WELCOME TO <span>DESERT</span></h3>
-                            <p>Sicingio elitr, sed diam nonumy eir umod tempor inviduntaliqmuerat, sed diam. Phasellus dictum purus ut convallis tincidunt. Nam in dui quis sapien condi mentum consequat. Ut ut lacinia felis.Phasellus fermentum, lectus.</p>
-                            <a class="readmore" title="" href="#"><span>Read More <i class="fa fa-angle-double-right"></i></span></a>
-                            <i class="fa fa-forumbee"></i>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-    <section>
-        <div class="block gray">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 column">
-                        <div class="all-texty">
+                    <div class="col-md-offset-2 col-md-8 column">
+                        <div class="title">
+                            <span>FEEL FREE TO CONTACT US</span>
+                            <h2>GET IN TOUCH</h2>
+                            <i>Integer sollicitudin ligula non enim sodales.</i>
+                        </div><!-- Title -->
+                        <div id="message"></div>
+                        <form  class="contact-form" method="post" action="contact.php" name="contactform" id="contactform">
                             <div class="row">
-                                <div class="col-md-4">
-                                    <span>Grow Brands By Making Decisions</span>
-                                    <h4>A Few Words</h4>
-                                    <h3>About Desert</h3>
-                                    <p>Sicingio elitr, sed diam nonumy umod tempor invidu ntaliq muerat, sed diam dapibus vulputate est, quis tempus sapien tempor. Tenetur magni quae quia ipsa suscipt.Tenetur magni quae quia ipsa suscipt dorqu am incidunt sapiente cupiditate soluta.</p>
-                                </div>
-                                <div class="col-md-4">
-                                    <p>Sicingio elitr, sed diam nonumy umod tempor inviduntaq muerat, sed diam. Phasellus dictum purus ut convallisti ncidunt. Tenetur magni quae quia ipsa suscipt dorqu am incidunt sapiente cupiditate soluta. Sicingio elitr, sed dia hasellus dictumSicingio elitr, sed diam nonumy umod to muerat, sed diam. Phasellus dictum purus ut convallie sicingio elitr sed diancidunt. Tenetur magni quae quia ipsa suscipt dorqu am incidunt sapiente cupiditate soluta.Tenetur magni quae quia ipsa suscipt dorqu am incidunt sapiente cupiditate soluta.</p>
-                                </div>
-                                <div class="col-md-4"><img src="http://placehold.it/370x360" alt="" /></div>
+                                <div class="col-md-6"><input name="name" type="text" id="name" placeholder="Full Name" /></div>
+                                <div class="col-md-6"><input  name="email" type="text" id="email"  placeholder="Email" /></div>
+                                <div class="col-md-12"><input type="text" placeholder="Subject" /></div>
+                                <div class="col-md-12"><textarea name="comments" id="comments"  placeholder="Details"></textarea></div>
+                                <div class="col-md-12"><button title="" class="readmore button" type="submit" id="submit"><span>Submit <i class="fa fa-angle-double-right"></i></span></button></div>
                             </div>
-                        </div><!-- All Texty -->
+                        </form>
                     </div>
                 </div>
             </div>
@@ -298,31 +236,13 @@
     </section>
 
 
-
     <section>
-        <div class="block no-padding">
+        <div class="block remove-gap remove-bottom">
             <div class="row">
                 <div class="col-md-12 column">
-                    <div class="social-bar">
-                        <ul>
-                            <li class="social1"><a href="#" title="">
-                                <img src="images/social1.png" alt="" />
-                                <span>Join Us On<strong>FACEBOOK</strong></span>
-                            </a></li>
-                            <li class="social2"><a href="#" title="">
-                                <img src="images/social2.png" alt="" />
-                                <span>Join Us On<strong>TWIITER</strong></span>
-                            </a></li>
-                            <li class="social3"><a href="#" title="">
-                                <img src="images/social3.png" alt="" />
-                                <span>Join Us On<strong>GOOGLE PLUS</strong></span>
-                            </a></li>
-                            <li class="social4"><a href="#" title="">
-                                <img src="images/social4.png" alt="" />
-                                <span>Join Us On<strong>LINKED IN</strong></span>
-                            </a></li>
-                        </ul>
-                    </div>
+                    <div class="map">
+                        <div id="map-canvas"></div>
+                    </div><!-- Google Map -->
                 </div>
             </div>
         </div>
@@ -334,7 +254,7 @@
             <div class="parallax" style="background:url(http://placehold.it/1600x839);"></div>
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12 column">
+                    <div class="col-md-12">
                         <div class="footer-widgets">
                             <div class="row">
                                 <div class="col-md-4">
@@ -401,110 +321,12 @@
 </div>
 <script type="text/javascript" src="js/modernizr.custom.97074.js"></script>
 <script type="text/javascript" src="js/jquery2.1.3.js"></script>
-<!-- SLIDER REVOLUTION -->
-<script type="text/javascript" src="js/revolution/jquery.themepunch.plugins.min.js"></script>
-<script type="text/javascript" src="js/revolution/jquery.themepunch.revolution.min.js"></script>
-
 <script type="text/javascript" src="js/bootstrap.min.js"></script>
 <script type="text/javascript" src="js/owl.carousel.min.js"></script>
 <script type="text/javascript" src="js/prettyPhoto.js"></script>
-<script src="js/isotope.js"></script>
-<script src="js/isotope-initialize.js"></script>
 <script src="js/enscroll-0.5.2.min.js"></script> <!-- Custom Scroll bar -->
-<script type="text/javascript" src="js/jquery.counterup.min.js"></script>
 <script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript" src="js/jquery.counterup.min.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
-<script>
-    $(document).ready(function() {
-        /* =============== Revolution Slider ===================== */
-        var revapi;
-        revapi = jQuery('.tp-banner').revolution(
-            {
-                delay:9000,
-                startwidth:1170,
-                startheight:750,
-                hideThumbs:10,
-                fullWidth:"on",
-                forceFullWidth:"off"
-            });
-
-
-        /* =============== Testimonial Carousel ===================== */
-        $('.testimonial-carousel').owlCarousel({
-            items: 1,
-            loop: true,
-            smartSpeed :1000,
-            singleItem:true,
-            autoplay: true,
-            autoplayTimeout: 3000,
-            autoheight:true,
-            dots:false,
-            nav:true,
-            margin:0,
-            autoplayHoverPause:false,
-            animateOut:'fadeOut',
-            animateIn:'fadeIn'
-        });
-
-        /* =============== Why Us Carousel ===================== */
-        $('.whyus-carousel').owlCarousel({
-            items: 1,
-            loop: true,
-            smartSpeed :1000,
-            singleItem:true,
-            autoplay: true,
-            autoplayTimeout: 3000,
-            dots:false,
-            nav:true,
-            margin:0,
-            autoplayHoverPause:false,
-            animateOut:'fadeOut',
-            animateIn:'fadeIn'
-        });
-
-
-        /* =============== Special Carousel ===================== */
-        $('.special-carousel').owlCarousel({
-            items: 2,
-            loop: true,
-            smartSpeed :1000,
-            autoplay:true,
-            dots: false,
-            nav:true,
-            margin:30,
-            responsive : {
-                1000:{items:2},
-                767:{items:1},
-                468:{items:1},
-                0:{items:1},
-            }
-        });
-
-
-        /* =============== Intro Carousel ===================== */
-        $('.intro-carousel').owlCarousel({
-            items: 2,
-            loop: true,
-            smartSpeed :1000,
-            autoplay:true,
-            dots: false,
-            nav:false,
-            margin: 0,
-            responsive : {
-                1000:{items:2},
-                767:{items:2},
-                468:{items:2},
-                0:{items:1},
-            }
-        });
-
-
-        /* =============== Fun Facts Counter ===================== */
-        $(".counting").counterUp({
-            time: 1000
-        });
-
-    });
-</script>
-
 </body>
+

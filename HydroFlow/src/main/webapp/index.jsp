@@ -182,8 +182,9 @@
                                         <img src="http://placehold.it/1600x839"  alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                                         <div class="tp-caption sft slide-title2" data-x="center" data-y="275" data-speed="500" data-start="1000" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:70px;letter-spacing:20px;">T<i>HE DE</i>SERT</div>
                                         <div class="tp-caption sft slide-desc" data-x="center" data-y="370" data-speed="500" data-start="1400" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px; text-align:center;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam, autem ipsum dolor sit <br/> molestias nostrum suscipit doloribus, tempore dolorum corrupti. amet, consectetur </div>
-                                        <a href="#" title=""  class="tp-caption sfr slide-btn" data-x="420" data-y="470" data-speed="500" data-start="1800" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px;padding:7px 40px;">Features</a>
-                                        <a href="#" title="" class="tp-caption sfl slide-btn" data-x="610" data-y="470" data-speed="500" data-start="2200" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px;padding:7px 40px;">Purchase</a>
+                                        <a href="raccoltaCampione.jsp" title=""  class="tp-caption sfr slide-btn" data-x="420" data-y="470" data-speed="500" data-start="1800" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px;padding:7px 40px;">Raccolta acqua</a>
+                                        <a href="monitoraFiume.jsp" title="" class="tp-caption sfl slide-btn" data-x="610" data-y="470" data-speed="500" data-start="2200" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px;padding:7px 40px;">Monitoraggio acqua</a>
+                                        <a href="segnalaFiume.jsp" title="" class="tp-caption sfl slide-btn" data-x="790" data-y="470" data-speed="500" data-start="2600" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px;padding:7px 40px;">Segnala fiume</a>
                                     </li><!-- Slide 2 -->
 
                                     <li data-transition="fadetotopfadefrombottom" data-slotamount="10" data-masterspeed="1000" >
@@ -212,11 +213,12 @@
                                 <div class="col-md-4">
                                     <div class="links">
                                         <div class="link-inner">
-                                            <strong>01</strong>
+                                            <strong>1</strong>
                                             <i class="fa fa-diamond"></i>
-                                            <span>What We Think?</span>
-                                            <h3><a href="#" title="">Day Night Support </a></h3>
-                                            <p>Sicingio elitr, sed diam nonumy eir umod tempor invidu wnta liqmuerat</p>
+                                            <span>Raccolta Campione</span>
+                                            <div>
+                                                <a href="raccoltaCampione.jsp" title=""  class="tp-caption sfr slide-btn" data-x="420" data-y="470" data-speed="500" data-start="1800" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px;padding:7px 40px; background-color: black; color: white;" >Vai</a>
+                                            </div>
                                         </div>
                                     </div><!-- Links -->
                                 </div>
@@ -275,75 +277,6 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 column">
-                        <div class="counters">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <div class="counter">
-                                        <i class="fa fa-joomla"></i>
-                                        <strong>GAME PLAYED</strong><span class="counting">908</span>
-                                    </div><!-- Counter -->
-                                </div>
-                                <div class="col-md-3">
-                                    <div class="counter">
-                                        <i class="fa fa-coffee"></i>
-                                        <strong>CUPS OF COFFEE</strong><span class="counting">6403</span>
-                                    </div><!-- Counter -->
-                                </div>
-                                <div class="col-md-3">
-                                    <div class="counter">
-                                        <i class="fa fa-film"></i>
-                                        <strong>MOVIES WATCHED</strong><span class="counting">1001</span>
-                                    </div><!-- Counter -->
-                                </div>
-                                <div class="col-md-3">
-                                    <div class="counter">
-                                        <i class="fa fa-joomla"></i>
-                                        <strong>COMPONY PROJECTS</strong><span class="counting">1055</span>
-                                    </div><!-- Counter -->
-                                </div>
-                            </div>
-                        </div><!-- Counters -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-
-    <section>
-        <div class="block no-padding">
-            <div class="row">
-                <div class="col-md-12 column">
-                    <div class="special-offers">
-                        <div class="special-text">
-                            <div class="links">
-                                <div class="link-inner">
-                                    <strong>02</strong>
-                                    <span>Branding & Identify</span>
-                                    <h3><a href="#" title="">SPECIAL <span>OFFERS</span></a></h3>
-                                    <p>Sicingio elitr, sed diam nonumy umod tempor invidu  ntaliq muerat, sed diam. Phasellus dictum purus ut convallis tincidunt. Tenetur magni quae quia ipsasuscipit dolorqu am incidunt sapiente cupiditate soluta.Sicingio elitr, sed dia hasellus dictum!</p>
-                                    <a href="#" title=""><i class="fa fa-long-arrow-right"></i> Read More</a>
-                                </div>
-                            </div><!-- Links -->
-                        </div><!-- Special Text -->
-                        <div class="special-carousel">
-                            <div class="special-img"><img src="http://placehold.it/370x603" alt="" /></div>
-                            <div class="special-img"><img src="http://placehold.it/370x603" alt="" /></div>
-                            <div class="special-img"><img src="http://placehold.it/370x603" alt="" /></div>
-                        </div><!-- Special Carousel -->
-                    </div><!-- Speical Offers -->
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-    <section>
-        <div class="block gray">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 column">
                         <div class="all-texty">
                             <div class="row">
                                 <div class="col-md-4">
@@ -358,153 +291,6 @@
                                 <div class="col-md-4"><img src="http://placehold.it/370x360" alt="" /></div>
                             </div>
                         </div><!-- All Texty -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-
-    <section>
-        <div class="block remove-gap gray">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 column">
-                        <div class="title">
-                            <span>Do You Know About Them</span>
-                            <h2>Desert <span>Creators</span></h2>
-                            <p>Sicingio elitr, sed diam nonumy umod tempor invidu ntaliq muerat, sed diam dapibus <br/> vulputate est, quis tempus sapien tempor</p>
-                        </div><!-- Title -->
-                        <div class="team-section">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <div class="member">
-                                        <img src="http://placehold.it/270x370" alt="">
-                                        <h4><a title="" href="team-detail.html">BRAYDEN CHARLES</a></h4>
-                                        <span>Chief Executive Officer</span>
-                                        <div class="social-icons">
-                                            <a href="#" title=""><i class="fa fa-facebook"></i></a>
-                                            <a href="#" title=""><i class="fa fa-twitter"></i></a>
-                                            <a href="#" title=""><i class="fa fa-skype"></i></a>
-                                            <a href="#" title=""><i class="fa fa-pinterest"></i></a>
-                                        </div>
-                                    </div><!-- Member -->
-                                </div>
-                                <div class="col-md-3">
-                                    <div class="member">
-                                        <img src="http://placehold.it/270x370" alt="">
-                                        <h4><a title="" href="team-detail.html">Anya Siennadia</a></h4>
-                                        <span>Sectory CEO. Marketing</span>
-                                        <div class="social-icons">
-                                            <a href="#" title=""><i class="fa fa-facebook"></i></a>
-                                            <a href="#" title=""><i class="fa fa-twitter"></i></a>
-                                            <a href="#" title=""><i class="fa fa-skype"></i></a>
-                                            <a href="#" title=""><i class="fa fa-pinterest"></i></a>
-                                        </div>
-                                    </div><!-- Member -->
-                                </div>
-                                <div class="col-md-3">
-                                    <div class="member">
-                                        <img src="http://placehold.it/270x370" alt="">
-                                        <h4><a title="" href="team-detail.html">Krieger Robbie</a></h4>
-                                        <span>Development Officer</span>
-                                        <div class="social-icons">
-                                            <a href="#" title=""><i class="fa fa-facebook"></i></a>
-                                            <a href="#" title=""><i class="fa fa-twitter"></i></a>
-                                            <a href="#" title=""><i class="fa fa-skype"></i></a>
-                                            <a href="#" title=""><i class="fa fa-pinterest"></i></a>
-                                        </div>
-                                    </div><!-- Member -->
-                                </div>
-                                <div class="col-md-3">
-                                    <div class="member">
-                                        <img src="http://placehold.it/270x370" alt="">
-                                        <h4><a title="" href="team-detail.html">BRAYDEN CHARLES</a></h4>
-                                        <span>Chief Executive Officer</span>
-                                        <div class="social-icons">
-                                            <a href="#" title=""><i class="fa fa-facebook"></i></a>
-                                            <a href="#" title=""><i class="fa fa-twitter"></i></a>
-                                            <a href="#" title=""><i class="fa fa-skype"></i></a>
-                                            <a href="#" title=""><i class="fa fa-pinterest"></i></a>
-                                        </div>
-                                    </div><!-- Member -->
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-
-    <section>
-        <div class="block no-padding">
-            <div class="row">
-                <div class="col-md-12 column">
-                    <div class="why-us">
-                        <div class="whyus-img"><img src="http://placehold.it/800x750" alt="" /></div>
-                        <div class="whyus-text">
-                            <div class="title">
-                                <span>Do You Know About Work</span>
-                                <h2>Why <span>Choose Us</span></h2>
-                                <p>Sicingio elitr, sed diam nonumy umod tempor invidu ntaliq muerat, sed diam dapibus <br/> vulputate est, quis tempus sapien tempor</p>
-                            </div><!-- Title -->
-                            <div class="whyus-carousel">
-                                <div class="slide">
-                                    <div class="our-service">
-                                        <strong>01</strong><span><i class="fa fa-music"></i></span>
-                                        <h4>Best App Features</h4>
-                                        <p>Sicingio elitr, sed diam nonumy eir umod tempor invidu </p>
-                                    </div><!-- Simple Service -->
-                                    <div class="our-service">
-                                        <strong>02</strong><span><i class="fa fa-image"></i></span>
-                                        <h4>Portfolio Layout</h4>
-                                        <p>Sicingio elitr, sed diam nonumy eir umod tempor invidu </p>
-                                    </div><!-- Simple Service -->
-                                </div>
-                                <div class="slide">
-                                    <div class="our-service">
-                                        <strong>03</strong><span><i class="fa fa-bell-slash"></i></span>
-                                        <h4>Best App Features</h4>
-                                        <p>Sicingio elitr, sed diam nonumy eir umod tempor invidu </p>
-                                    </div><!-- Simple Service -->
-                                    <div class="our-service">
-                                        <strong>04</strong><span><i class="fa fa-child"></i></span>
-                                        <h4>Portfolio Layout</h4>
-                                        <p>Sicingio elitr, sed diam nonumy eir umod tempor invidu </p>
-                                    </div><!-- Simple Service -->
-                                </div>
-                            </div><!-- Why Us Carousel -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-
-    <section>
-        <div class="block blackish">
-            <div class="parallax" style="background:url(http://placehold.it/1600x839);"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 column">
-                        <div class="testimonial-carousel">
-                            <div class="testimonial">
-                                <img src="http://placehold.it/123x123" alt="" />
-                                <p>Morbi gravida mattis sem, eget tincidunt risus malesuada vitae. Phasellus luctus commodo ullai mcorper a posuere rhoncus commodo elit.</p>
-                                <strong>Jack Mason / Creative Director</strong>
-                            </div><!-- Testimonial -->
-                            <div class="testimonial">
-                                <img src="http://placehold.it/123x123" alt="" />
-                                <p> Phasellus luctus commodo ullai mcorper a posuere rhoncus commodo elit.Morbi gravida mattis sem, eget tincidunt risus malesuada vitae. Phasellus luctus commodo ullai mcorper a posuere rhoncus commodo elit.</p>
-                                <strong>Mixel Benard / Ceo</strong>
-                            </div><!-- Testimonial -->
-                        </div><!-- Testimonial Carousel -->
                     </div>
                 </div>
             </div>
@@ -537,119 +323,6 @@
                             </a></li>
                         </ul>
                     </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-
-    <section>
-        <div class="block gray">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 column">
-                        <div class="title">
-                            <span>Do You Know About Work</span>
-                            <h2>Desert <span>Recent Blog</span></h2>
-                            <p>Sicingio elitr, sed diam nonumy umod tempor invidu ntaliq muerat, sed diam dapibus <br/> vulputate est, quis tempus sapien tempor</p>
-                        </div><!-- Title -->
-                        <div class="blog-posts">
-                            <div class="row">
-                                <div class="col-md-4">
-                                    <div class="blog-post">
-                                        <div class="blog-img"><img alt="" src="http://placehold.it/370x306"></div>
-                                        <div class="blog-detail">
-                                            <span><img alt="" src="http://placehold.it/70x70"></span>
-                                            <div class="post-date"><i>12th</i> March, 2015</div>
-                                            <strong>Posted by <a title="" href="#">JOHN DOE</a> in <a title="" href="#">Blog</a></strong>
-                                            <h4><a title="" href="single-post.html">A Study Soft Application</a></h4>
-                                        </div>
-                                    </div><!-- Blog Post -->
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="blog-post">
-                                        <div class="blog-img"><img alt="" src="http://placehold.it/370x306"></div>
-                                        <div class="blog-detail">
-                                            <span><img alt="" src="http://placehold.it/70x70"></span>
-                                            <div class="post-date"><i>19th</i> May, 2015</div>
-                                            <strong>Posted by <a title="" href="#">JOHN DOE</a> in <a title="" href="#">Blog</a></strong>
-                                            <h4><a title="" href="single-post.html">Chemists &amp; Engins Agree</a></h4>
-                                        </div>
-                                    </div><!-- Blog Post -->
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="blog-post">
-                                        <div class="blog-img"><img alt="" src="http://placehold.it/370x306"></div>
-                                        <div class="blog-detail">
-                                            <span><img alt="" src="http://placehold.it/70x70"></span>
-                                            <div class="post-date"><i>21th</i> April, 2015</div>
-                                            <strong>Posted by <a title="" href="#">JOHN DOE</a> in <a title="" href="#">Blog</a></strong>
-                                            <h4><a title="" href="single-post.html">The Paint Interior Walls</a></h4>
-                                        </div>
-                                    </div><!-- Blog Post -->
-                                </div>
-                            </div>
-                        </div><!-- All Blog Posts -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section>
-        <div class="block remove-gap gray">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="title">
-                            <span>Do You Know About Work</span>
-                            <h2>Desert <span>Affiliations</span></h2>
-                            <p>Sicingio elitr, sed diam nonumy umod tempor invidu ntaliq muerat, sed diam dapibus <br/> vulputate est, quis tempus sapien tempor</p>
-                        </div><!-- Title -->
-
-                        <div class="all-sponsors remove-ext">
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <div class="sponsor"><img alt="" src="http://placehold.it/270x138"></div>
-                                </div>
-                                <div class="col-md-3">
-                                    <div class="sponsor"><img alt="" src="http://placehold.it/270x138"></div>
-                                </div>
-                                <div class="col-md-3">
-                                    <div class="sponsor"><img alt="" src="http://placehold.it/270x138"></div>
-                                </div>
-                                <div class="col-md-3">
-                                    <div class="sponsor"><img alt="" src="http://placehold.it/270x138"></div>
-                                </div>
-                                <div class="col-md-3">
-                                    <div class="sponsor"><img alt="" src="http://placehold.it/270x138"></div>
-                                </div>
-                                <div class="col-md-3">
-                                    <div class="sponsor"><img alt="" src="http://placehold.it/270x138"></div>
-                                </div>
-                                <div class="col-md-3">
-                                    <div class="sponsor"><img alt="" src="http://placehold.it/270x138"></div>
-                                </div>
-                                <div class="col-md-3">
-                                    <div class="sponsor"><img alt="" src="http://placehold.it/270x138"></div>
-                                </div>
-                            </div>
-                        </div><!-- All Sponsors -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-    <section>
-        <div class="block remove-gap remove-bottom">
-            <div class="row">
-                <div class="col-md-12 column">
-                    <div class="map">
-                        <div id="map-canvas"></div>
-                    </div><!-- Google Map -->
                 </div>
             </div>
         </div>
