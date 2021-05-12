@@ -25,139 +25,12 @@
 <div class="theme-layout">
     <header class="stick transparent-header">
         <div class="container">
-            <div class="logo"><a href="#" title=""><img src="images/logo2.png" alt="" /></a></div><!-- Logo -->
-            <div class="menus">
-                <nav>
-                    <ul>
-                        <li><a href="#" title="">Home</a>
-                            <ul class="mega">
-                                <li><a href="index2.html" title="">Agency Homepage 1</a></li>
-                                <li><a href="index3.html" title="">Agency Homepage 2</a></li>
-                                <li><a href="index10.html" title="">Agency Homepage 3</a></li>
-                                <li><a href="index11.html" title="">Agency Homepage 4</a></li>
-                                <li><a href="index6.html" title="">Agency Homepage 5</a></li>
-                                <li><a href="index12.html" title="">Agency Homepage 6</a></li>
-                                <li><a href="index.html" title="">Portfolio Homepage</a></li>
-                                <li><a href="index8.html" title="">Portfolio Homepage2</a></li>
-                                <li><a href="index9.html" title="">Portfolio Homepage3</a></li>
-                                <li><a href="index4.html" title="">Resume Homepage 1</a></li>
-                                <li><a href="index5.html" title="">Resume Homepage 2</a></li>
-                                <li><a href="index7.html" title="">Resume Homepage 3</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#" title="">Pages</a>
-                            <ul>
-                                <li><a href="#" title="">Features</a>
-                                    <ul>
-                                        <li><a href="boxed-version.html" title="">Boxed Layout</a></li>
-                                        <li><a href="index10.html" title="">Simple Header</a></li>
-                                        <li><a href="index2.html" title="">Transparent Header</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="#" title="">Projects Pages</a>
-                                    <ul>
-                                        <li><a href="projects1.html" title="">Projects Style 1</a></li>
-                                        <li><a href="projects2.html" title="">Projects Style 2</a></li>
-                                        <li><a href="projects3.html" title="">Projects Style 3</a></li>
-                                        <li><a href="projects4.html" title="">Projects Style 4</a></li>
-                                        <li><a href="project-detail.html" title="">Project Detail</a></li>
-                                        <li><a href="project-detail2.html" title="">Project Detail 2</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="products.html" title="">Products Page</a></li>
-                                <li><a href="product-detail.html" title="">Products Detail Page</a></li>
-                                <li><a href="team.html" title="">Team Page</a></li>
-                                <li><a href="team-detail.html" title="">team Single Page</a></li>
-                                <li><a href="404.html" title="">404 Page</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="blog.html" title="">Blog</a>
-                            <ul>
-                                <li><a href="blog.html" title="">Blog Page</a></li>
-                                <li><a href="single-post.html" title="">Blog Single Page</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="about.html" title="">About Us</a></li>
-                        <li><a href="contact.html" title="">Contact Us</a></li>
-                    </ul>
-                </nav><!-- Navigation -->
-                <form class="header-search">
-                    <input type="text" placeholder="Enter Your Search" />
-                    <button><i class="fa fa-search"></i></button>
-                </form><!-- Header Form -->
-                <div class="social">
-                    <a href="#" title=""><i class="fa fa-facebook"></i></a>
-                    <a href="#" title=""><i class="fa fa-twitter"></i></a>
-                    <a href="#" title=""><i class="fa fa-linkedin"></i></a>
-                    <a href="#" title=""><i class="fa fa-skype"></i></a>
-                </div><!-- Social Icons -->
-            </div>
+            <div class="logo"><a href="#" title=""><img src="images/logoGoccia.gif" alt=""/></a></div><!-- Logo -->
         </div>
     </header><!-- Header -->
     <div class="responsive-header">
         <div class="responsive-menu">
-            <div class="logo"><a href="#" title=""><img src="images/logo.png" alt="" /></a></div>
-            <span class="open-menu"><i class="fa fa-align-justify"></i></span>
-            <div class="social">
-                <a href="#" title=""><i class="fa fa-facebook"></i></a>
-                <a href="#" title=""><i class="fa fa-twitter"></i></a>
-                <a href="#" title=""><i class="fa fa-linkedin"></i></a>
-                <a href="#" title=""><i class="fa fa-skype"></i></a>
-            </div><!-- Social Icons -->
-            <div class="menu-links">
-                <ul>
-                    <li class="menu-item-has-children"><a href="#" title="">Home</a>
-                        <ul>
-                            <li><a href="index2.html" title="">Agency Homepage 1</a></li>
-                            <li><a href="index3.html" title="">Agency Homepage 2</a></li>
-                            <li><a href="index10.html" title="">Agency Homepage 3</a></li>
-                            <li><a href="index11.html" title="">Agency Homepage 4</a></li>
-                            <li><a href="index6.html" title="">Agency Homepage 5</a></li>
-                            <li><a href="index12.html" title="">Agency Homepage 6</a></li>
-                            <li><a href="index.html" title="">Portfolio Homepage</a></li>
-                            <li><a href="index8.html" title="">Portfolio Homepage2</a></li>
-                            <li><a href="index9.html" title="">Portfolio Homepage3</a></li>
-                            <li><a href="index4.html" title="">Resume Homepage 1</a></li>
-                            <li><a href="index5.html" title="">Resume Homepage 2</a></li>
-                            <li><a href="index7.html" title="">Resume Homepage 3</a></li>
-                        </ul>
-                    </li>
-                    <li class="menu-item-has-children"><a href="#" title="">Pages</a>
-                        <ul>
-                            <li class="menu-item-has-children"><a href="#" title="">Features</a>
-                                <ul>
-                                    <li><a href="boxed-version.html" title="">Boxed Layout</a></li>
-                                    <li><a href="index10.html" title="">Simple Header</a></li>
-                                    <li><a href="index2.html" title="">Transparent Header</a></li>
-                                </ul>
-                            </li>
-                            <li class="menu-item-has-children"><a href="#" title="">Projects Pages</a>
-                                <ul>
-                                    <li><a href="projects1.html" title="">Projects Style 1</a></li>
-                                    <li><a href="projects2.html" title="">Projects Style 2</a></li>
-                                    <li><a href="projects3.html" title="">Projects Style 3</a></li>
-                                    <li><a href="projects4.html" title="">Projects Style 4</a></li>
-                                    <li><a href="project-detail.html" title="">Project Detail</a></li>
-                                    <li><a href="project-detail2.html" title="">Project Detail 2</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="products.html" title="">Products Page</a></li>
-                            <li><a href="product-detail.html" title="">Products Detail Page</a></li>
-                            <li><a href="team.html" title="">Team Page</a></li>
-                            <li><a href="team-detail.html" title="">team Single Page</a></li>
-                            <li><a href="404.html" title="">404 Page</a></li>
-                        </ul>
-                    </li>
-                    <li class="menu-item-has-children"><a href="blog.html" title="">Blog</a>
-                        <ul>
-                            <li><a href="blog.html" title="">Blog Page</a></li>
-                            <li><a href="single-post.html" title="">Blog Single Page</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="about.html" title="">About Us</a></li>
-                    <li><a href="contact.html" title="">Contact Us</a></li>
-                </ul>
-            </div>
+            <div class="logo"><a href="#" title=""><img src="images/logoGoccia.gif" alt="" /></a></div>
         </div><!-- Responsive Menu -->
     </div><!-- Responsive Header -->
 
@@ -172,10 +45,7 @@
                                 <ul>
                                     <li data-transition="zoomout" data-slotamount="10" data-masterspeed="1000" >
                                         <img src="http://placehold.it/1600x839"  alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
-                                        <div class="tp-caption lft slide-subtitle2" data-x="center" data-y="250" data-speed="500" data-start="1000" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:22px;letter-spacing:20px;">THE FEATURE OF</div>
-                                        <div class="tp-caption sfb slide-title" data-x="center" data-y="330" data-speed="500" data-start="1400" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:80px;">Creative Portfolio</div>
-                                        <div class="tp-caption lfb blackish-title" data-x="center" data-y="430" data-speed="500" data-start="1800" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px;padding:10px 30px;">Fantastic theme and beautifully coded. It has been a pleasure to use</div>
-                                        <div class="tp-caption lfb coloured-title" data-x="center" data-y="500" data-speed="500" data-start="2200" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px;padding:10px 30px;">this template thank you</div>
+                                        <div class="tp-caption sfb slide-title" data-x="center" data-y="330" data-speed="500" data-start="1400" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:80px;">AIUTIAMO IL MONDO!</div>
                                     </li><!-- Slide 1 -->
 
                                     <li data-transition="zoomout" data-slotamount="10" data-masterspeed="1000" >
@@ -184,7 +54,6 @@
                                         <div class="tp-caption sft slide-desc" data-x="center" data-y="370" data-speed="500" data-start="1400" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px; text-align:center;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam, autem ipsum dolor sit <br/> molestias nostrum suscipit doloribus, tempore dolorum corrupti. amet, consectetur </div>
                                         <a href="raccoltaCampione.jsp" title=""  class="tp-caption sfr slide-btn" data-x="420" data-y="470" data-speed="500" data-start="1800" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px;padding:7px 40px;">Raccolta acqua</a>
                                         <a href="monitoraFiume.jsp" title="" class="tp-caption sfl slide-btn" data-x="610" data-y="470" data-speed="500" data-start="2200" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px;padding:7px 40px;">Monitoraggio acqua</a>
-                                        <a href="segnalaFiume.jsp" title="" class="tp-caption sfl slide-btn" data-x="790" data-y="470" data-speed="500" data-start="2600" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px;padding:7px 40px;">Segnala fiume</a>
                                     </li><!-- Slide 2 -->
 
                                     <li data-transition="fadetotopfadefrombottom" data-slotamount="10" data-masterspeed="1000" >
@@ -213,12 +82,10 @@
                                 <div class="col-md-4">
                                     <div class="links">
                                         <div class="link-inner">
-                                            <strong>1</strong>
+                                            <strong>01</strong>
                                             <i class="fa fa-diamond"></i>
                                             <span>Raccolta Campione</span>
-                                            <div>
-                                                <a href="raccoltaCampione.jsp" title=""  class="tp-caption sfr slide-btn" data-x="420" data-y="470" data-speed="500" data-start="1800" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px;padding:7px 40px; background-color: black; color: white;" >Vai</a>
-                                            </div>
+                                            <h3><a href="raccoltaCampione.jsp" title="">VAI </a></h3>
                                         </div>
                                     </div><!-- Links -->
                                 </div>
@@ -226,10 +93,9 @@
                                     <div class="links">
                                         <div class="link-inner">
                                             <strong>02</strong>
-                                            <i class="fa fa-bolt"></i>
-                                            <span>Who We Are?</span>
-                                            <h3><a href="#" title="">Retina Ready </a></h3>
-                                            <p>Sicingio elitr, sed diam nonumy eir umod tempor invidu wnta liqmuerat</p>
+                                            <i class="fa fa-binoculars"></i>
+                                            <span>Monitora un fiume</span>
+                                            <h3><a href="monitoraFiume.jsp" title="">VAI </a></h3>
                                         </div>
                                     </div><!-- Links -->
                                 </div>
@@ -238,9 +104,8 @@
                                         <div class="link-inner">
                                             <strong>03</strong>
                                             <i class="fa fa-unlink"></i>
-                                            <span>Top Market</span>
-                                            <h3><a href="#" title="">Free Updates</a></h3>
-                                            <p>Sicingio elitr, sed diam nonumy eir umod tempor invidu wnta liqmuerat</p>
+                                            <span>Segnala un fiume inquinato</span>
+                                            <h3><a href="segnalaFiume.jsp" title="">VAI </a></h3>
                                         </div>
                                     </div><!-- Links -->
                                 </div>
@@ -259,8 +124,7 @@
                 <div class="row">
                     <div class="col-md-12 column">
                         <div class="welcome-box">
-                            <span>Irreplaceable Experience Now.</span>
-                            <h3>WELCOME TO <span>DESERT</span></h3>
+                            <h3>COS'È <span>HYDRO-FLOW</span>?</h3>
                             <p>Sicingio elitr, sed diam nonumy eir umod tempor inviduntaliqmuerat, sed diam. Phasellus dictum purus ut convallis tincidunt. Nam in dui quis sapien condi mentum consequat. Ut ut lacinia felis.Phasellus fermentum, lectus.</p>
                             <a class="readmore" title="" href="#"><span>Read More <i class="fa fa-angle-double-right"></i></span></a>
                             <i class="fa fa-forumbee"></i>
@@ -298,40 +162,9 @@
     </section>
 
 
-
-    <section>
-        <div class="block no-padding">
-            <div class="row">
-                <div class="col-md-12 column">
-                    <div class="social-bar">
-                        <ul>
-                            <li class="social1"><a href="#" title="">
-                                <img src="images/social1.png" alt="" />
-                                <span>Join Us On<strong>FACEBOOK</strong></span>
-                            </a></li>
-                            <li class="social2"><a href="#" title="">
-                                <img src="images/social2.png" alt="" />
-                                <span>Join Us On<strong>TWIITER</strong></span>
-                            </a></li>
-                            <li class="social3"><a href="#" title="">
-                                <img src="images/social3.png" alt="" />
-                                <span>Join Us On<strong>GOOGLE PLUS</strong></span>
-                            </a></li>
-                            <li class="social4"><a href="#" title="">
-                                <img src="images/social4.png" alt="" />
-                                <span>Join Us On<strong>LINKED IN</strong></span>
-                            </a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
     <footer>
         <div class="block">
-            <div class="parallax" style="background:url(http://placehold.it/1600x839);"></div>
+            <div class="parallax" style="background:url(http://placehold.it/1600x839);"></div> //mettere immagine del fiume
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 column">
