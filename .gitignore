@@ -1,0 +1,10 @@
+*.jar
+*.xml
+*.iml
+*.properties
+*.class
+*.jar
+*.meta
+*.MF
+*.war
+*.DS_Store
