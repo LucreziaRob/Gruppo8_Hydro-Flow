@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HydroFlow:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>HydroFlow</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="HydroFlow-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="HydroFlow:war exploded" />
+    </root>
+  </artifact>
+</component>
