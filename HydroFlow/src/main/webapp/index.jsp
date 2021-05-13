@@ -44,7 +44,7 @@
                             <div class="tp-banner">
                                 <ul>
                                     <li data-transition="zoomout" data-slotamount="10" data-masterspeed="1000" >
-                                        <img src="http://placehold.it/1600x839"  alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                                        <img src="images/fiume.jpg"  alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                                         <div class="tp-caption sfb slide-title" data-x="center" data-y="330" data-speed="500" data-start="1400" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:80px;">AIUTIAMO IL MONDO!</div>
                                     </li><!-- Slide 1 -->
 
@@ -172,7 +172,7 @@
                             <div class="row">
                                 <div class="col-md-4">
                                     <div class="widget">
-                                        <h4 class="widget-title">ABOUT <span>DESERT</span></h4>
+                                        <h4 class="widget-title">CHI <span>SIAMO</span>?</h4>
                                         <p>Maecenas sit amet tincidu elit. Pellente sque habitant morbi is tristique senectus  tnetus et malesuada fames ac turpis eges tas lorem. Nulla facilisi. Pellentesque habitant mors.</p>
                                         <ul>
                                             <li><span>ADDRESS:</span><p>8500 Central Park, New York, Wdhri West CEO 12301</p></li>
@@ -182,7 +182,7 @@
                                 </div>
                                 <div class="col-md-4">
                                     <div class="widget">
-                                        <h4 class="widget-title">FLICKR <span>PHOTOS</span></h4>
+                                        <h4 class="widget-title">CHI <span>LAVORA </span> CON NOI?</h4>
                                         <div class="gallery-widget">
                                             <div class="row">
                                                 <div class="col-md-4"><a data-rel="prettyPhoto" href="http://placehold.it/1000x900" title=""><img src="http://placehold.it/110x110" alt="" /></a></div>
@@ -197,7 +197,7 @@
                                 </div>
                                 <div class="col-md-4">
                                     <div class="widget">
-                                        <h4 class="widget-title">NEWSLETTER <span>SIGNUP</span></h4>
+                                        <h4 class="widget-title"><span>CONTATTI</span></h4>
                                         <p>Maecenas sit amet tincidu elit. Pellente sque habitant morbi is tristique senectus etnetus et malesuada fames.</p>
                                         <form>
                                             <input type="text" placeholder="Email Address" />
