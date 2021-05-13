@@ -30,183 +30,20 @@
 </head>
 <body>
 <div class="theme-layout">
-    <header class="stick">
-        <div class="container">
-            <div class="logo"><a href="#" title=""><img src="images/logo.png" alt="" /></a></div><!-- Logo -->
-            <div class="menus">
-                <nav>
-                    <ul>
-                        <li><a href="#" title="">Home</a>
-                            <ul class="mega">
-                                <li><a href="index2.html" title="">Agency Homepage 1</a></li>
-                                <li><a href="index3.html" title="">Agency Homepage 2</a></li>
-                                <li><a href="index10.html" title="">Agency Homepage 3</a></li>
-                                <li><a href="index11.html" title="">Agency Homepage 4</a></li>
-                                <li><a href="index6.html" title="">Agency Homepage 5</a></li>
-                                <li><a href="index12.html" title="">Agency Homepage 6</a></li>
-                                <li><a href="index.html" title="">Portfolio Homepage</a></li>
-                                <li><a href="index8.html" title="">Portfolio Homepage2</a></li>
-                                <li><a href="index9.html" title="">Portfolio Homepage3</a></li>
-                                <li><a href="index4.html" title="">Resume Homepage 1</a></li>
-                                <li><a href="index5.html" title="">Resume Homepage 2</a></li>
-                                <li><a href="index7.html" title="">Resume Homepage 3</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#" title="">Pages</a>
-                            <ul>
-                                <li><a href="#" title="">Features</a>
-                                    <ul>
-                                        <li><a href="boxed-version.html" title="">Boxed Layout</a></li>
-                                        <li><a href="index10.html" title="">Simple Header</a></li>
-                                        <li><a href="index2.html" title="">Transparent Header</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="#" title="">Projects Pages</a>
-                                    <ul>
-                                        <li><a href="projects1.html" title="">Projects Style 1</a></li>
-                                        <li><a href="projects2.html" title="">Projects Style 2</a></li>
-                                        <li><a href="projects3.html" title="">Projects Style 3</a></li>
-                                        <li><a href="projects4.html" title="">Projects Style 4</a></li>
-                                        <li><a href="project-detail.html" title="">Project Detail</a></li>
-                                        <li><a href="project-detail2.html" title="">Project Detail 2</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="products.html" title="">Products Page</a></li>
-                                <li><a href="product-detail.html" title="">Products Detail Page</a></li>
-                                <li><a href="team.html" title="">Team Page</a></li>
-                                <li><a href="team-detail.html" title="">team Single Page</a></li>
-                                <li><a href="404.html" title="">404 Page</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="blog.html" title="">Blog</a>
-                            <ul>
-                                <li><a href="blog.html" title="">Blog Page</a></li>
-                                <li><a href="single-post.html" title="">Blog Single Page</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="about.html" title="">About Us</a></li>
-                        <li><a href="contact.html" title="">Contact Us</a></li>
-                    </ul>
-                </nav><!-- Navigation -->
-                <form class="header-search">
-                    <input type="text" placeholder="Enter Your Search" />
-                    <button><i class="fa fa-search"></i></button>
-                </form><!-- Header Form -->
-                <div class="social">
-                    <a href="#" title=""><i class="fa fa-facebook"></i></a>
-                    <a href="#" title=""><i class="fa fa-twitter"></i></a>
-                    <a href="#" title=""><i class="fa fa-linkedin"></i></a>
-                    <a href="#" title=""><i class="fa fa-skype"></i></a>
-                </div><!-- Social Icons -->
-            </div>
+    <header class="stick" style="background-color: #2e4959">
+        <div class="container" style="position: center">
+            <div class="logo" ><a href="index.jsp" title=""><img src="images/logoGoccia.gif" alt="" /></a></div><!-- Logo -->
         </div>
     </header><!-- Header -->
-    <div class="responsive-header">
-        <div class="responsive-menu">
-            <div class="logo"><a href="#" title=""><img src="images/logo.png" alt="" /></a></div>
-            <span class="open-menu"><i class="fa fa-align-justify"></i></span>
-            <div class="social">
-                <a href="#" title=""><i class="fa fa-facebook"></i></a>
-                <a href="#" title=""><i class="fa fa-twitter"></i></a>
-                <a href="#" title=""><i class="fa fa-linkedin"></i></a>
-                <a href="#" title=""><i class="fa fa-skype"></i></a>
-            </div><!-- Social Icons -->
-            <div class="menu-links">
-                <ul>
-                    <li class="menu-item-has-children"><a href="#" title="">Home</a>
-                        <ul>
-                            <li><a href="index2.html" title="">Agency Homepage 1</a></li>
-                            <li><a href="index3.html" title="">Agency Homepage 2</a></li>
-                            <li><a href="index10.html" title="">Agency Homepage 3</a></li>
-                            <li><a href="index11.html" title="">Agency Homepage 4</a></li>
-                            <li><a href="index6.html" title="">Agency Homepage 5</a></li>
-                            <li><a href="index12.html" title="">Agency Homepage 6</a></li>
-                            <li><a href="index.html" title="">Portfolio Homepage</a></li>
-                            <li><a href="index8.html" title="">Portfolio Homepage2</a></li>
-                            <li><a href="index9.html" title="">Portfolio Homepage3</a></li>
-                            <li><a href="index4.html" title="">Resume Homepage 1</a></li>
-                            <li><a href="index5.html" title="">Resume Homepage 2</a></li>
-                            <li><a href="index7.html" title="">Resume Homepage 3</a></li>
-                        </ul>
-                    </li>
-                    <li class="menu-item-has-children"><a href="#" title="">Pages</a>
-                        <ul>
-                            <li class="menu-item-has-children"><a href="#" title="">Features</a>
-                                <ul>
-                                    <li><a href="boxed-version.html" title="">Boxed Layout</a></li>
-                                    <li><a href="index10.html" title="">Simple Header</a></li>
-                                    <li><a href="index2.html" title="">Transparent Header</a></li>
-                                </ul>
-                            </li>
-                            <li class="menu-item-has-children"><a href="#" title="">Projects Pages</a>
-                                <ul>
-                                    <li><a href="projects1.html" title="">Projects Style 1</a></li>
-                                    <li><a href="projects2.html" title="">Projects Style 2</a></li>
-                                    <li><a href="projects3.html" title="">Projects Style 3</a></li>
-                                    <li><a href="projects4.html" title="">Projects Style 4</a></li>
-                                    <li><a href="project-detail.html" title="">Project Detail</a></li>
-                                    <li><a href="project-detail2.html" title="">Project Detail 2</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="products.html" title="">Products Page</a></li>
-                            <li><a href="product-detail.html" title="">Products Detail Page</a></li>
-                            <li><a href="team.html" title="">Team Page</a></li>
-                            <li><a href="team-detail.html" title="">team Single Page</a></li>
-                            <li><a href="404.html" title="">404 Page</a></li>
-                        </ul>
-                    </li>
-                    <li class="menu-item-has-children"><a href="blog.html" title="">Blog</a>
-                        <ul>
-                            <li><a href="blog.html" title="">Blog Page</a></li>
-                            <li><a href="single-post.html" title="">Blog Single Page</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="about.html" title="">About Us</a></li>
-                    <li><a href="contact.html" title="">Contact Us</a></li>
-                </ul>
-            </div>
-        </div><!-- Responsive Menu -->
-    </div><!-- Responsive Header -->
 
     <div class="page-top">
-        <div style="background:url(http://placehold.it/1600x839);" class="parallax"></div>
+        <div style="background:white;" class="parallax"></div>
         <div class="container">
-            <span>THE FUTURE OF</span>
-            <h3>DESERT <i>CONTACT</i></h3>
+            <h2>SEGNALA UN</h2>
+            <h3>FIUME <i>INQUINATO</i></h3>
         </div>
     </div>
 
-
-    <section>
-        <div class="block gray">
-            <div class="row">
-                <div class="col-md-12 column">
-                    <div class="contact-boxes">
-                        <div class="row">
-                            <div class="col-md-4">
-                                <div class="contact-box">
-                                    <i class="fa fa-home"></i>
-                                    <h5>Address:</h5><p>8500 Central, New York, Wdhri West CEO 12301</p>
-                                </div><!-- Contact Box -->
-                            </div>
-                            <div class="col-md-4">
-                                <div class="contact-box">
-                                    <i class="fa fa-phone"></i>
-                                    <h5>Phone No:</h5><p>+14 867 00 79 41</p><p>+14 867 00 79 41</p>
-                                </div><!-- Contact Box -->
-                            </div>
-                            <div class="col-md-4">
-                                <div class="contact-box">
-                                    <i class="fa fa-envelope"></i>
-                                    <h5>Email Address:</h5><p>desort@your-site.com</p><p>stillidea@gmail.com</p>
-                                </div><!-- Contact Box -->
-                            </div>
-                        </div>
-                    </div><!-- Contact Boxes -->
-                </div>
-            </div>
-        </div>
-    </section>
 
 
     <section>
@@ -215,18 +52,16 @@
                 <div class="row">
                     <div class="col-md-offset-2 col-md-8 column">
                         <div class="title">
-                            <span>FEEL FREE TO CONTACT US</span>
-                            <h2>GET IN TOUCH</h2>
-                            <i>Integer sollicitudin ligula non enim sodales.</i>
+                            <span> </span>
+                            <h3>SEGNALA!</h3>
+                            <i>Inserire la località dov'è situato il fiume e il nome del fiume che si vuole segnalare</i>
                         </div><!-- Title -->
                         <div id="message"></div>
                         <form  class="contact-form" method="post" action="contact.php" name="contactform" id="contactform">
                             <div class="row">
-                                <div class="col-md-6"><input name="name" type="text" id="name" placeholder="Full Name" /></div>
-                                <div class="col-md-6"><input  name="email" type="text" id="email"  placeholder="Email" /></div>
-                                <div class="col-md-12"><input type="text" placeholder="Subject" /></div>
-                                <div class="col-md-12"><textarea name="comments" id="comments"  placeholder="Details"></textarea></div>
-                                <div class="col-md-12"><button title="" class="readmore button" type="submit" id="submit"><span>Submit <i class="fa fa-angle-double-right"></i></span></button></div>
+                                <div class="col-md-12"><input name="name" type="text" id="name" placeholder="Località..." /></div>
+                                <div class="col-md-12"><select name="email" id="email"><option>Fiume Sarno</option> </select></div>
+                                <div class="col-md-12"><button title="" class="readmore button" type="submit" id="submit"><span>Grazie per il tuo aiuto <i class="fa fa-angle-double-right"></i></span></button></div>
                             </div>
                         </form>
                     </div>
@@ -236,60 +71,41 @@
     </section>
 
 
-    <section>
-        <div class="block remove-gap remove-bottom">
-            <div class="row">
-                <div class="col-md-12 column">
-                    <div class="map">
-                        <div id="map-canvas"></div>
-                    </div><!-- Google Map -->
-                </div>
-            </div>
-        </div>
-    </section>
-
 
     <footer>
         <div class="block">
             <div class="parallax" style="background:url(http://placehold.it/1600x839);"></div>
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12">
+                    <div class="col-md-12 column">
                         <div class="footer-widgets">
                             <div class="row">
                                 <div class="col-md-4">
                                     <div class="widget">
-                                        <h4 class="widget-title">ABOUT <span>DESERT</span></h4>
+                                        <h4 class="widget-title">CHI <span>SIAMO</span>?</h4>
                                         <p>Maecenas sit amet tincidu elit. Pellente sque habitant morbi is tristique senectus  tnetus et malesuada fames ac turpis eges tas lorem. Nulla facilisi. Pellentesque habitant mors.</p>
-                                        <ul>
-                                            <li><span>ADDRESS:</span><p>8500 Central Park, New York, Wdhri West CEO 12301</p></li>
-                                            <li><span>PHONE NO:</span><p>+13 445 87 01 99</p></li>
-                                        </ul>
+
                                     </div><!-- Widget -->
                                 </div>
                                 <div class="col-md-4">
                                     <div class="widget">
-                                        <h4 class="widget-title">FLICKR <span>PHOTOS</span></h4>
+                                        <h4 class="widget-title">CHI <span>LAVORA </span> CON NOI?</h4>
                                         <div class="gallery-widget">
                                             <div class="row">
-                                                <div class="col-md-4"><a data-rel="prettyPhoto" href="http://placehold.it/1000x900" title=""><img src="http://placehold.it/110x110" alt="" /></a></div>
-                                                <div class="col-md-4"><a data-rel="prettyPhoto" href="http://placehold.it/1000x900" title=""><img src="http://placehold.it/110x110" alt="" /></a></div>
-                                                <div class="col-md-4"><a data-rel="prettyPhoto" href="http://placehold.it/1000x900" title=""><img src="http://placehold.it/110x110" alt="" /></a></div>
-                                                <div class="col-md-4"><a data-rel="prettyPhoto" href="http://placehold.it/1000x900" title=""><img src="http://placehold.it/110x110" alt="" /></a></div>
-                                                <div class="col-md-4"><a data-rel="prettyPhoto" href="http://placehold.it/1000x900" title=""><img src="http://placehold.it/110x110" alt="" /></a></div>
-                                                <div class="col-md-4"><a data-rel="prettyPhoto" href="http://placehold.it/1000x900" title=""><img src="http://placehold.it/110x110" alt="" /></a></div>
+                                                <div class="col-md-4"><a data-rel="prettyPhoto" href="images/wwf.png" title=""><img src="images/wwf.png" alt="" /></a></div>
+                                                <div class="col-md-4"><a data-rel="prettyPhoto" href="images/legambiente.png" title=""><img src="images/legambiente.png" alt="" /></a></div>
+                                                <div class="col-md-4"><a data-rel="prettyPhoto" href="images/protezioneCivile.png" title=""><img src="images/protezioneCivile.png" alt="" /></a></div>
                                             </div>
                                         </div>
                                     </div><!-- Widget -->
                                 </div>
                                 <div class="col-md-4">
                                     <div class="widget">
-                                        <h4 class="widget-title">NEWSLETTER <span>SIGNUP</span></h4>
-                                        <p>Maecenas sit amet tincidu elit. Pellente sque habitant morbi is tristique senectus etnetus et malesuada fames.</p>
-                                        <form>
-                                            <input type="text" placeholder="Email Address" />
-                                            <a class="readmore" href="#" title=""><span>Submit Now</span></a>
-                                        </form>
+                                        <h4 class="widget-title"><span>CONTATTI</span></h4>
+                                        <ul>
+                                            <li><span>INDIRIZZI:</span><p>Università degli Studi di Salerno, Fiscino,  Invariante 12/B, Via Giovanni Paolo II, 132, 84084</p></li>
+                                            <li><span>TELEFONO:</span><p>089 962907</p></li>
+                                        </ul>
                                     </div><!-- Widget -->
                                 </div>
                             </div>

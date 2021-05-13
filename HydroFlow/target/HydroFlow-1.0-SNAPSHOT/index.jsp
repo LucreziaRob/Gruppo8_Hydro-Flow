@@ -49,7 +49,7 @@
                                     </li><!-- Slide 1 -->
 
                                     <li data-transition="zoomout" data-slotamount="10" data-masterspeed="1000" >
-                                        <img src="http://placehold.it/1600x839"  alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                                        <img src="images/fiume2.jpg"  alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                                         <div class="tp-caption sft slide-title2" data-x="center" data-y="275" data-speed="500" data-start="1000" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:70px;letter-spacing:20px;">T<i>HE DE</i>SERT</div>
                                         <div class="tp-caption sft slide-desc" data-x="center" data-y="370" data-speed="500" data-start="1400" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px; text-align:center;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam, autem ipsum dolor sit <br/> molestias nostrum suscipit doloribus, tempore dolorum corrupti. amet, consectetur </div>
                                         <a href="raccoltaCampione.jsp" title=""  class="tp-caption sfr slide-btn" data-x="420" data-y="470" data-speed="500" data-start="1800" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px;padding:7px 40px;">Raccolta acqua</a>
@@ -57,7 +57,7 @@
                                     </li><!-- Slide 2 -->
 
                                     <li data-transition="fadetotopfadefrombottom" data-slotamount="10" data-masterspeed="1000" >
-                                        <img src="http://placehold.it/1600x839"  alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                                        <img src="images/fiume3.jpg"  alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                                         <div class="tp-caption sfb slide-title" data-x="0" data-y="240" data-speed="500" data-start="2000" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:70px;">Its All <span>About Beauty</span></div>
                                         <div class="tp-caption sfb slide-subtitle" data-x="0" data-y="340" data-speed="500" data-start="2300" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:22px;letter-spacing:12px;padding:15px 40px;">The Futures Of Desert</div>
                                         <div class="tp-caption sfb slide-desc" data-x="0" data-y="440" data-speed="500" data-start="2600" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:16px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam, autem <br/> molestias nostrum suscipit doloribus, tempore dolorum corrupti.</div>
@@ -164,7 +164,7 @@
 
     <footer>
         <div class="block">
-            <div class="parallax" style="background:url(http://placehold.it/1600x839);"></div> //mettere immagine del fiume
+            <div class="parallax" style="background:url(http://placehold.it/1600x839);"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 column">
@@ -174,10 +174,7 @@
                                     <div class="widget">
                                         <h4 class="widget-title">CHI <span>SIAMO</span>?</h4>
                                         <p>Maecenas sit amet tincidu elit. Pellente sque habitant morbi is tristique senectus  tnetus et malesuada fames ac turpis eges tas lorem. Nulla facilisi. Pellentesque habitant mors.</p>
-                                        <ul>
-                                            <li><span>ADDRESS:</span><p>8500 Central Park, New York, Wdhri West CEO 12301</p></li>
-                                            <li><span>PHONE NO:</span><p>+13 445 87 01 99</p></li>
-                                        </ul>
+
                                     </div><!-- Widget -->
                                 </div>
                                 <div class="col-md-4">
@@ -185,12 +182,9 @@
                                         <h4 class="widget-title">CHI <span>LAVORA </span> CON NOI?</h4>
                                         <div class="gallery-widget">
                                             <div class="row">
-                                                <div class="col-md-4"><a data-rel="prettyPhoto" href="http://placehold.it/1000x900" title=""><img src="http://placehold.it/110x110" alt="" /></a></div>
-                                                <div class="col-md-4"><a data-rel="prettyPhoto" href="http://placehold.it/1000x900" title=""><img src="http://placehold.it/110x110" alt="" /></a></div>
-                                                <div class="col-md-4"><a data-rel="prettyPhoto" href="http://placehold.it/1000x900" title=""><img src="http://placehold.it/110x110" alt="" /></a></div>
-                                                <div class="col-md-4"><a data-rel="prettyPhoto" href="http://placehold.it/1000x900" title=""><img src="http://placehold.it/110x110" alt="" /></a></div>
-                                                <div class="col-md-4"><a data-rel="prettyPhoto" href="http://placehold.it/1000x900" title=""><img src="http://placehold.it/110x110" alt="" /></a></div>
-                                                <div class="col-md-4"><a data-rel="prettyPhoto" href="http://placehold.it/1000x900" title=""><img src="http://placehold.it/110x110" alt="" /></a></div>
+                                                <div class="col-md-4"><a data-rel="prettyPhoto" href="images/wwf.png" title=""><img src="images/wwf.png" alt="" /></a></div>
+                                                <div class="col-md-4"><a data-rel="prettyPhoto" href="images/legambiente.png" title=""><img src="images/legambiente.png" alt="" /></a></div>
+                                                <div class="col-md-4"><a data-rel="prettyPhoto" href="images/protezioneCivile.png" title=""><img src="images/protezioneCivile.png" alt="" /></a></div>
                                             </div>
                                         </div>
                                     </div><!-- Widget -->
@@ -198,11 +192,10 @@
                                 <div class="col-md-4">
                                     <div class="widget">
                                         <h4 class="widget-title"><span>CONTATTI</span></h4>
-                                        <p>Maecenas sit amet tincidu elit. Pellente sque habitant morbi is tristique senectus etnetus et malesuada fames.</p>
-                                        <form>
-                                            <input type="text" placeholder="Email Address" />
-                                            <a class="readmore" href="#" title=""><span>Submit Now</span></a>
-                                        </form>
+                                        <ul>
+                                            <li><span>INDIRIZZI:</span><p>Università degli Studi di Salerno, Fiscino,  Invariante 12/B, Via Giovanni Paolo II, 132, 84084</p></li>
+                                            <li><span>TELEFONO:</span><p>089 962907</p></li>
+                                        </ul>
                                     </div><!-- Widget -->
                                 </div>
                             </div>
