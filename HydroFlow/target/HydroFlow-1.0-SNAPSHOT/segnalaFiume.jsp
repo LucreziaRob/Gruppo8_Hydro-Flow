@@ -31,13 +31,13 @@
 <body>
 <div class="theme-layout">
     <header class="stick" style="background-color: #2e4959">
-        <div class="container" style="position: center">
+        <div class="container">
             <div class="logo" ><a href="index.jsp" title=""><img src="images/logoGoccia.gif" alt="" /></a></div><!-- Logo -->
         </div>
     </header><!-- Header -->
 
     <div class="page-top">
-        <div style="background:white;" class="parallax"></div>
+        <div style="background:white" class="parallax"></div>
         <div class="container">
             <h2>SEGNALA UN</h2>
             <h3>FIUME <i>INQUINATO</i></h3>
@@ -116,24 +116,6 @@
         </div>
     </footer><!-- Footer -->
 
-    <div class="bottom-footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6">
-                    <ul class="footer-links">
-                        <li><a href="#" title="">Home</a></li>
-                        <li><a href="#" title="">Services</a></li>
-                        <li><a href="#" title="">Portfolio</a></li>
-                        <li><a href="#" title="">About Us</a></li>
-                        <li><a href="#" title="">Contact Us</a></li>
-                    </ul><!-- Footer Links -->
-                </div>
-                <div class="col-md-6">
-                    <div class="copyright">Copyright 2015 Desert designed by <a href="http://www.stillidea.net" title="">Stillidea</a></div><!-- Copyrights -->
-                </div>
-            </div>
-        </div>
-    </div><!-- Bottom Footer -->
 </div>
 <script type="text/javascript" src="js/modernizr.custom.97074.js"></script>
 <script type="text/javascript" src="js/jquery2.1.3.js"></script>

@@ -133,7 +133,7 @@
                                             <strong>02</strong>
                                             <i><img src="images/binocular.png" style="width: 65px; height: 65px"></i>
                                             <span>Monitora un fiume</span>
-                                            <h3><a href="monitoraFiume.jsp" title="">VAI </a></h3>
+                                            <h3><a href="sceltaPagine.jsp" title="">VAI </a></h3>
                                         </div>
                                     </div><!-- Links -->
                                 </div>
