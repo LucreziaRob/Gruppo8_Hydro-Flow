@@ -25,7 +25,7 @@
 <div class="theme-layout">
     <header class="stick transparent-header">
         <div class="container">
-            <div class="logo"><a href="#" title=""><img src="images/logoGoccia.gif" alt=""/></a></div><!-- Logo -->
+            <div class="logo" style="display: block; margin-left: auto; margin-right: auto"><a href="#" title=""><img src="images/logoGoccia.gif" alt=""/></a></div><!-- Logo -->
         </div>
     </header><!-- Header -->
     <div class="responsive-header">
