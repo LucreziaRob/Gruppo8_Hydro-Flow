@@ -53,6 +53,10 @@
                                              data-speed="500" data-start="1400" data-easing="Back.easeOut"
                                              data-captionhidden="on" style="font-size:80px;">AIUTIAMO IL MONDO!
                                         </div>
+                                        <a href="raccoltaCampione.jsp" title="" class="tp-caption sfr slide-btn"
+                                           data-x="420" data-y="470" data-speed="500" data-start="1800"
+                                           data-easing="Back.easeOut" data-captionhidden="on"
+                                           style="font-size:16px;padding:7px 40px;">Scopri di più!</a>
                                     </li><!-- Slide 1 -->
 
                                     <li data-transition="zoomout" data-slotamount="10" data-masterspeed="1000">
@@ -70,14 +74,7 @@
                                             dolor sit <br/> molestias nostrum suscipit doloribus, tempore dolorum
                                             corrupti. amet, consectetur
                                         </div>
-                                        <a href="raccoltaCampione.jsp" title="" class="tp-caption sfr slide-btn"
-                                           data-x="420" data-y="470" data-speed="500" data-start="1800"
-                                           data-easing="Back.easeOut" data-captionhidden="on"
-                                           style="font-size:16px;padding:7px 40px;">Raccolta acqua</a>
-                                        <a href="monitoraFiume.jsp" title="" class="tp-caption sfl slide-btn"
-                                           data-x="610" data-y="470" data-speed="500" data-start="2200"
-                                           data-easing="Back.easeOut" data-captionhidden="on"
-                                           style="font-size:16px;padding:7px 40px;">Monitoraggio acqua</a>
+
                                     </li><!-- Slide 2 -->
 
                                     <li data-transition="fadetotopfadefrombottom" data-slotamount="10"
@@ -163,12 +160,11 @@
                     <div class="col-md-12 column">
                         <div class="welcome-box">
                             <h3>COS'È <span>HYDRO-FLOW</span>?</h3>
-                            <p>Sicingio elitr, sed diam nonumy eir umod tempor inviduntaliqmuerat, sed diam. Phasellus
-                                dictum purus ut convallis tincidunt. Nam in dui quis sapien condi mentum consequat. Ut
-                                ut lacinia felis.Phasellus fermentum, lectus.</p>
-                            <a class="readmore" title="" href="#"><span>Read More <i
-                                    class="fa fa-angle-double-right"></i></span></a>
-                            <i class="fa fa-forumbee"></i>
+                            <h2>Hydro-Flow è un progetto nell'ambito della Citizen-Science
+                                in cui, tu stesso, vesti i panni di uno "scienziato" contribuendo in prima persona alla
+                                raccolta di campioni, dati ed informazioni dei fiumi inquinati.  </h2>
+
+                            <!-- <i class="fa fa-forumbee"></i> -->
                         </div>
                     </div>
                 </div>
@@ -241,8 +237,8 @@
                                                                          href="images/legambiente.png" title=""><img
                                                         src="images/legambiente.png" alt=""/></a></div>
                                                 <div class="col-md-4"><a data-rel="prettyPhoto"
-                                                                         href="images/protezioneCivile.png"
-                                                                         title=""><img src="images/protezioneCivile.png"
+                                                                         href="images/protezioneCivile.jpg"
+                                                                         title=""><img src="images/protezioneCivile.jpg"
                                                                                        alt=""/></a></div>
                                             </div>
                                         </div>
