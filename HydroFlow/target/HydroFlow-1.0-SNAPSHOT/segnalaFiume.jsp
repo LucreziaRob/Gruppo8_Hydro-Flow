@@ -94,7 +94,7 @@
                                             <div class="row">
                                                 <div class="col-md-4"><a data-rel="prettyPhoto" href="images/wwf.png" title=""><img src="images/wwf.png" alt="" /></a></div>
                                                 <div class="col-md-4"><a data-rel="prettyPhoto" href="images/legambiente.png" title=""><img src="images/legambiente.png" alt="" /></a></div>
-                                                <div class="col-md-4"><a data-rel="prettyPhoto" href="images/protezioneCivile.png" title=""><img src="images/protezioneCivile.png" alt="" /></a></div>
+                                                <div class="col-md-4"><a data-rel="prettyPhoto" href="images/protezioneCivile.jpg" title=""><img src="images/protezioneCivile.jpg" alt="" /></a></div>
                                             </div>
                                         </div>
                                     </div><!-- Widget -->
