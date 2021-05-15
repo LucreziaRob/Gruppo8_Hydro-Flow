@@ -213,15 +213,21 @@
                     <div class="col-md-12 column">
                         <div class="all-texty">
                             <div class="row">
-                                <div class="col-md-4"><img src="images/circle.png"/>
+                                <div class="col-md-4"><img src="images/bolla-fiume.png"/>
                                     <p></p>
                                     <p></p>
                                     <h4>
-                                        Scegli un fiume.
+                                        Trova un fiume.
                                     </h4>
                                 </div>
 
-                                <div class="col-md-4"><img src="images/circle.png"/></div>
+                                <div class="col-md-4"><img src="images/bolla-raccolta.png"/>
+                                    <p></p>
+                                    <p></p>
+                                    <h4>
+                                        Raccogli più informazioni possibili.
+                                    </h4>
+                                </div>
 
                                 <!-- <div class="col-md-4">
                                     <p>Sicingio elitr, sed diam nonumy umod tempor inviduntaq muerat, sed diam.
@@ -233,8 +239,12 @@
                                         magni quae quia ipsa suscipt dorqu am incidunt sapiente cupiditate soluta.</p>
                                 </div> -->
 
-                                <div class="col-md-4"><img src="images/circle.png"/>
-
+                                <div class="col-md-4"><img src="images/bolla-scienziati.png"/>
+                                    <p></p>
+                                    <p></p>
+                                    <h4>
+                                        Condividile con le associazioni interessate.
+                                    </h4>
                                 </div>
 
                             </div>
