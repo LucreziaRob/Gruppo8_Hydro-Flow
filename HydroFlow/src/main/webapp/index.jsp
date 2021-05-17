@@ -53,7 +53,7 @@
                                              data-speed="500" data-start="1400" data-easing="Back.easeOut"
                                              data-captionhidden="on" style="font-size:80px;">AIUTIAMO IL MONDO!
                                         </div>
-                                        <a href="raccoltaCampione.jsp" title="" class="tp-caption sfr slide-btn"
+                                        <a href="#arrivo" title="" class="tp-caption sfr slide-btn"
                                            data-x="420" data-y="470" data-speed="500" data-start="1800"
                                            data-easing="Back.easeOut" data-captionhidden="on"
                                            style="font-size:16px;padding:7px 40px;">Scopri di più!</a>
@@ -118,8 +118,8 @@
                                     <div class="links">
                                         <div class="link-inner">
                                             <strong>01</strong>
-                                            <i><img src="images/test-tube.png" style="width: 65px; height: 65px"></i>
-                                            <span>Raccolta Campione</span>
+                                            <i><img src="images/test-tubes.png" style="width: 93px; height: 93px"></i>
+                                            <span style="font-size:20px; margin:40px 0px 40px;">Raccolta Campione</span>
                                             <h3><a href="raccoltaCampione.jsp" title="">VAI </a></h3>
                                         </div>
                                     </div><!-- Links -->
@@ -128,8 +128,8 @@
                                     <div class="links">
                                         <div class="link-inner">
                                             <strong>02</strong>
-                                            <i><img src="images/binoculars.png" style="width: 65px; height: 65px"></i>
-                                            <span>Monitora un fiume</span>
+                                            <i><img src="images/binoculars.png" style="width: 95px; height: 95px"></i>
+                                            <span style="font-size:20px; margin:40px 0px 40px;">Monitora un fiume</span>
                                             <h3><a href="sceltaPagine.jsp" title="">VAI </a></h3>
                                         </div>
                                     </div><!-- Links -->
@@ -138,8 +138,8 @@
                                     <div class="links">
                                         <div class="link-inner">
                                             <strong>03</strong>
-                                            <i><img src="images/report.png" style="width: 65px; height: 65px"></i>
-                                            <span>Segnala un fiume inquinato</span>
+                                            <i><img src="images/reports.png" style="width: 95px; height: 95px"></i>
+                                            <span style="font-size:20px; margin:40px 0px 40px;">Segnala un fiume inquinato</span>
                                             <h3><a href="segnalaFiume.jsp" title="">VAI </a></h3>
                                         </div>
                                     </div><!-- Links -->
@@ -149,9 +149,10 @@
                     </div>
                 </div>
             </div>
+            <a name="arrivo"></a>
         </div>
-    </section>
 
+    </section>
 
     <section>
         <div class="block remove-gap  remove-bottom gray">
@@ -207,7 +208,7 @@
     </section>
 
     <section>
-        <div class="block1 gray">
+        <div class="block1 gray" style="background-color: #f4f6fe; margin: 20px;">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 column">
@@ -216,16 +217,18 @@
                                 <div class="col-md-4"><img src="images/bolla-fiumep.png"/>
                                     <p></p>
                                     <p></p>
-                                    <h4>
-                                        Trova un fiume.
+                                    <!-- <img src="images/1.png" width="10%"/> -->
+                                    <h4 style="font-size:30px; text-align: center;">
+                                       1. Trova un fiume
                                     </h4>
                                 </div>
 
                                 <div class="col-md-4"><img src="images/bolla-raccolta.png"/>
                                     <p></p>
                                     <p></p>
-                                    <h4>
-                                        Raccogli più informazioni possibili.
+                                    <!-- <img src="images/2.png" width="10%"/> -->
+                                    <h4 style="font-size:30px; text-align: center;">
+                                        2. Raccogli più informazioni possibili
                                     </h4>
                                 </div>
 
@@ -242,8 +245,9 @@
                                 <div class="col-md-4"><img src="images/bolla-scienziati.png"/>
                                     <p></p>
                                     <p></p>
-                                    <h4>
-                                        Condividile con le associazioni interessate.
+                                    <!-- <img src="images/3.png" width="10%"/> -->
+                                    <h4 style="font-size:30px; text-align: center;">
+                                       3. Condividile con le associazioni interessate
                                     </h4>
                                 </div>
 
@@ -258,7 +262,7 @@
 
     <footer>
         <div class="block">
-            <div class="parallax" style="background:url(http://placehold.it/1600x839);"></div>
+            <div class="parallax"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 column">
@@ -297,7 +301,7 @@
                                         <h4 class="widget-title"><span>CONTATTI</span></h4>
                                         <ul>
                                             <li><span>INDIRIZZI:</span>
-                                                <p>Università degli Studi di Salerno, Fiscino, Invariante 12/B, Via
+                                                <p>Università degli Studi di Salerno, Fisciano, Invariante 12/B, Via
                                                     Giovanni Paolo II, 132, 84084</p></li>
                                             <li><span>TELEFONO:</span>
                                                 <p>089 962907</p></li>
