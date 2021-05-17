@@ -60,8 +60,8 @@
                         <form  class="contact-form" method="post" action="contact.php" name="contactform" id="contactform">
                             <div class="row">
                                 <div class="col-md-12"><input name="name" type="text" id="name" placeholder="Località..." /></div>
-                                <div class="col-md-12"><label name="name" type="text" placeholder="Nome fiume" /><select name="email" id="email" style="background-color: white; width: 770px; height: 50px">
-                                    <option>Seleziona...</option>
+                                <div class="col-md-12"><select name="email" id="email" style="background-color: white; width: 770px; height: 50px">
+                                    <option>Seleziona il nome del fiume...</option>
                                     <option>Fiume Volturno</option>
                                     <option>Fiume Ofanto</option>
                                     <option>Fiume Fortore</option>
