@@ -274,7 +274,9 @@
                 <div class="col-md-6"><input type="text" /></div>
                 <div class="col-md-6"><label>Si sentono cattivi odori?</label></div>
                 <div class="col-md-6"><input type="text" /></div>
-                <div class="col-md-12"><textarea name="comments" id="comments"  placeholder="Commenti"></textarea></div>
+                <div class="col-md-6"><label>Inserisci una foto</label></div>
+                <div class="col-md-6"><input type="file" name="foto" accept=".jpg, .png, .jpeg, .gif"></div>
+                <div class="col-md-12"><textarea name="comments" id="comments"  placeholder="Descrizione"></textarea></div>
                 <div class="col-md-12"><button title="" class="readmore button" type="submit" id="submit"><span>Inoltra<i class="fa fa-angle-double-right"></i></span></button></div>
               </div>
             </form>
