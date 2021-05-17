@@ -51,8 +51,8 @@
             <div class="row">
               <div class="masonary filters">
                 <div class="col-md-6">
-                  <div class="project">
-                    <img src="http://placehold.it/570x700" alt="" />
+                  <div class="project" style="width: 500px; height: 612px">
+                    <img src="images/unnamed.jpg" alt="" />
                     <div class="project-overlay">
                       <div class="details">
                         <div class="center">
@@ -67,8 +67,8 @@
                   </div><!-- Project -->
                 </div>
                 <div class="col-md-6">
-                  <div class="project">
-                    <img src="http://placehold.it/570x335" alt="" />
+                  <div class="project" style="width: 275px; height: 183px">
+                    <img src="images/images-4.jpg" alt="" />
                     <div class="project-overlay">
                       <div class="details">
                         <div class="center">
@@ -84,7 +84,7 @@
                 </div>
                 <div class="col-md-3">
                   <div class="project">
-                    <img src="http://placehold.it/270x335" alt="" />
+                    <img src="images/images-2.jpg" alt="" />
                     <div class="project-overlay">
                       <div class="details">
                         <div class="center">
@@ -99,8 +99,8 @@
                   </div><!-- Project -->
                 </div>
                 <div class="col-md-3">
-                  <div class="project">
-                    <img src="http://placehold.it/270x335" alt="" />
+                  <div class="project" style="width: 275px; height: 183px">
+                    <img src="images/images-1.jpg" alt="" />
                     <div class="project-overlay">
                       <div class="details">
                         <div class="center">
@@ -136,6 +136,35 @@
               <div class="col-md-6" style="border: 1px solid white; display: inline-block; padding: 6px 12px; cursor: pointer; background-color: white; width: 300px; margin-top: 20px"><input type="file" name="foto" accept=".jpg, .png, .jpeg, .gif"></div>
               <div class="col-md-12" style="margin-top: 60px"><a title="" class="readmore button" type="submit" id="submit"><span>Inoltra<i class="fa fa-angle-double-right"></i></span></a></div>
             </div><!-- Title -->
+
+            <div class="all-sponsors remove-ext">
+              <div class="row">
+                <div class="col-md-3">
+                  <div class="sponsor" style="width: 260px; height: 200px"><img alt="" src="images/images-3.jpg"></div>
+                </div>
+                <div class="col-md-3">
+                  <div class="sponsor" style="width: 260px; height: 200px"><img alt="" src="images/images-5.jpg"></div>
+                </div>
+                <div class="col-md-3">
+                  <div class="sponsor" style="width: 260px; height: 200px"><img alt="" src="images/images-6.jpg"></div>
+                </div>
+                <div class="col-md-3">
+                  <div class="sponsor" style="width: 260px; height: 200px"><img alt="" src="images/images-7.jpg"></div>
+                </div>
+                <div class="col-md-3">
+                  <div class="sponsor" style="width: 260px; height: 200px"><img alt="" src="images/images-8.jpg"></div>
+                </div>
+                <div class="col-md-3">
+                  <div class="sponsor" style="width: 260px; height: 200px"><img alt="" src="images/images-9.jpg"></div>
+                </div>
+                <div class="col-md-3">
+                  <div class="sponsor" style="width: 260px; height: 200px"><img alt="" src="images/images-10.jpg"></div>
+                </div>
+                <div class="col-md-3">
+                  <div class="sponsor" style="width: 260px; height: 200px"><img alt="" src="images/images-11.jpg" style="size: 200px 168px"></div>
+                </div>
+              </div>
+            </div><!-- All Sponsors -->
           </div>
         </div>
       </div>
