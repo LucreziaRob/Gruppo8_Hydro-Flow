@@ -133,6 +133,13 @@ section {
     padding: 120px 0;
 }
 
+.block1 {
+    float: left;
+    width: 100%;
+    position: relative;
+    padding: 20px 0;
+}
+
 .block.remove-gap {
     padding-top: 0;
 }
@@ -146,6 +153,10 @@ section {
 }
 
 .block.gray {
+    background: #f4f6fe none repeat scroll 0 0;
+}
+
+.block1.gray {
     background: #f4f6fe none repeat scroll 0 0;
 }
 
