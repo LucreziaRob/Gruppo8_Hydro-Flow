@@ -22,6 +22,7 @@
   <!-- Styles -->
   <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
   <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" type="text/css" href="css/revolution.css" media="screen" />
   <link rel="stylesheet" href="css/style.css" type="text/css" />
   <link href="css/responsive.css" rel="stylesheet" type="text/css" />
 

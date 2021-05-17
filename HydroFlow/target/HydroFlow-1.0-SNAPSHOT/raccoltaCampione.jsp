@@ -97,8 +97,8 @@
                               id="contactform">
                             <div class="row">
                                 <div class="col-md-6">
-                                    <button title="" class="readmore button" type="submit" id="submit"><span>Inoltra campione<i
-                                            class="fa fa-angle-double-right"></i></span></button>
+                                    <a class="readmore button" href="inoltroCampione.jsp"><span>Inoltra campione<i
+                                            class="fa fa-angle-double-right"></i></span></a>
                                 </div>
                                 <div class="col-md-6">
                                     <a class="readmore button" href="analisiCampione.jsp"><span>Compila analisi<i
