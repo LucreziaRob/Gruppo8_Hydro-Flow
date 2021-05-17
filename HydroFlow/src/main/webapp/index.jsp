@@ -128,7 +128,7 @@
                                     <div class="links">
                                         <div class="link-inner">
                                             <strong>02</strong>
-                                            <i><img src="images/binocular.png" style="width: 65px; height: 65px"></i>
+                                            <i><img src="images/binoculars.png" style="width: 65px; height: 65px"></i>
                                             <span>Monitora un fiume</span>
                                             <h3><a href="sceltaPagine.jsp" title="">VAI </a></h3>
                                         </div>
@@ -197,7 +197,7 @@
                 <div class="row">
                     <div class="col-md-12 column">
                         <div class="welcome-box">
-                            <h2>COME FUNZIONA?</h2>
+                            <h2 style="font-size:40px;">COME FUNZIONA?</h2>
                             <!-- <i class="fa fa-forumbee"></i> -->
                         </div>
                     </div>
@@ -207,13 +207,13 @@
     </section>
 
     <section>
-        <div class="block gray">
+        <div class="block1 gray">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 column">
                         <div class="all-texty">
                             <div class="row">
-                                <div class="col-md-4"><img src="images/bolla-fiume.png"/>
+                                <div class="col-md-4"><img src="images/bolla-fiumep.png"/>
                                     <p></p>
                                     <p></p>
                                     <h4>
