@@ -172,6 +172,39 @@
         </div>
     </section>
 
+    <section>
+        <div class="block remove-gap  remove-bottom gray">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 column">
+                        <div class="welcome-box">
+                            <p></p>
+                            <p></p>
+                            <p></p>
+                            <p></p>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section>
+        <div class="block remove-gap  remove-bottom gray">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 column">
+                        <div class="welcome-box">
+                            <h2>COME FUNZIONA?</h2>
+                            <!-- <i class="fa fa-forumbee"></i> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <section>
         <div class="block gray">
@@ -180,16 +213,23 @@
                     <div class="col-md-12 column">
                         <div class="all-texty">
                             <div class="row">
-                                <div class="col-md-4">
-                                    <span>Grow Brands By Making Decisions</span>
-                                    <h4>A Few Words</h4>
-                                    <h3>About Desert</h3>
-                                    <p>Sicingio elitr, sed diam nonumy umod tempor invidu ntaliq muerat, sed diam
-                                        dapibus vulputate est, quis tempus sapien tempor. Tenetur magni quae quia ipsa
-                                        suscipt.Tenetur magni quae quia ipsa suscipt dorqu am incidunt sapiente
-                                        cupiditate soluta.</p>
+                                <div class="col-md-4"><img src="images/bolla-fiume.png"/>
+                                    <p></p>
+                                    <p></p>
+                                    <h4>
+                                        Trova un fiume.
+                                    </h4>
                                 </div>
-                                <div class="col-md-4">
+
+                                <div class="col-md-4"><img src="images/bolla-raccolta.png"/>
+                                    <p></p>
+                                    <p></p>
+                                    <h4>
+                                        Raccogli più informazioni possibili.
+                                    </h4>
+                                </div>
+
+                                <!-- <div class="col-md-4">
                                     <p>Sicingio elitr, sed diam nonumy umod tempor inviduntaq muerat, sed diam.
                                         Phasellus dictum purus ut convallisti ncidunt. Tenetur magni quae quia ipsa
                                         suscipt dorqu am incidunt sapiente cupiditate soluta. Sicingio elitr, sed dia
@@ -197,11 +237,19 @@
                                         Phasellus dictum purus ut convallie sicingio elitr sed diancidunt. Tenetur magni
                                         quae quia ipsa suscipt dorqu am incidunt sapiente cupiditate soluta.Tenetur
                                         magni quae quia ipsa suscipt dorqu am incidunt sapiente cupiditate soluta.</p>
+                                </div> -->
+
+                                <div class="col-md-4"><img src="images/bolla-scienziati.png"/>
+                                    <p></p>
+                                    <p></p>
+                                    <h4>
+                                        Condividile con le associazioni interessate.
+                                    </h4>
                                 </div>
-                                <div class="col-md-4"><img src="http://placehold.it/370x360" alt=""/></div>
+
                             </div>
                         </div><!-- All Texty -->
-                    </div>
+                     </div>
                 </div>
             </div>
         </div>
