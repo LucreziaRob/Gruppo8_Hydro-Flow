@@ -82,8 +82,8 @@
                     </div>
                   </div><!-- Project -->
                 </div>
-                <div class="col-md-3">
-                  <div class="project">
+                <div class="col-md-6">
+                  <div class="project" style="width: 275px; height: 183px">
                     <img src="images/images-2.jpg" alt="" />
                     <div class="project-overlay">
                       <div class="details">
@@ -98,7 +98,7 @@
                     </div>
                   </div><!-- Project -->
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-6">
                   <div class="project" style="width: 275px; height: 183px">
                     <img src="images/images-1.jpg" alt="" />
                     <div class="project-overlay">
