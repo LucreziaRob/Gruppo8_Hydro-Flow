@@ -9,7 +9,7 @@
 <!DOCTYPE html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <title>Desert HTML Template</title>
+  <title>Hydro-Flow Monitora un fiume</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="" />
   <meta name="keywords" content="" />
@@ -85,7 +85,7 @@
                   <div class="links">
                     <div class="link-inner">
                       <strong>01</strong>
-                      <i><img src="images/test-tube.png" style="width: 65px; height: 65px"></i>
+                      <i><img src="images/test-tubes.png" style="width: 65px; height: 65px"></i>
                       <span>Inoltra una foto</span>
                       <h3><a href="inoltroFoto.jsp" title="">VAI </a></h3>
                     </div>
@@ -95,7 +95,7 @@
                   <div class="links">
                     <div class="link-inner">
                       <strong>02</strong>
-                      <i><img src="images/report.png" style="width: 65px; height: 65px"></i>
+                      <i><img src="images/reports.png" style="width: 65px; height: 65px"></i>
                       <span>Monitora un fiume</span>
                       <h3><a href="monitoraFiume.jsp" title="">VAI </a></h3>
                     </div>

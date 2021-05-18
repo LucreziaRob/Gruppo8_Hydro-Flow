@@ -9,7 +9,7 @@
 <!DOCTYPE html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <title>Desert HTML Template</title>
+  <title>Hydro-Flow - 404Error</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="" />
   <meta name="keywords" content="" />
@@ -31,19 +31,16 @@
 
 <section>
   <div class="block blackish">
-    <div style="background:url(http://placehold.it/1600x839);" class="parallax"></div>
+    <div class="parallax"></div>
     <div class="container">
       <div class="row">
         <div class="col-md-12 column">
           <div class="error-page">
             <h1>4<i>0</i>4 <span>ERROR</span></h1>
             <span>oops!</span>
-            <p>This is not the page that you are looking for.</p>
-            <i>Search something in this site with form below;</i>
-            <form>
-              <input type="text" placeholder="Enter Your Search" />
-              <button>Search</button>
-            </form>
+            <p>La pagina non è stata trovata!</p>
+            <i style="font-size: x-large">Clicca <a href="index.jsp" style="color: #4e8ce1">qui</a> per tornare alla HomePage</i>
+            <div></div>
           </div>
         </div>
       </div>
@@ -51,23 +48,8 @@
   </div>
 </section>
 
-<div class="bottom-footer">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-6">
-        <ul class="footer-links">
-          <li><a href="#" title="">Home</a></li>
-          <li><a href="#" title="">Services</a></li>
-          <li><a href="#" title="">Portfolio</a></li>
-          <li><a href="#" title="">About Us</a></li>
-          <li><a href="#" title="">Contact Us</a></li>
-        </ul><!-- Footer Links -->
-      </div>
-      <div class="col-md-6">
-        <div class="copyright">Copyright 2015 Desert designed by <a href="http://www.stillidea.net" title="">Stillidea</a></div><!-- Copyrights -->
-      </div>
-    </div>
-  </div>
+<div class="bottom-footer" style="background-color: #333333">
+  <br>
 </div><!-- Bottom Footer -->
 
 
