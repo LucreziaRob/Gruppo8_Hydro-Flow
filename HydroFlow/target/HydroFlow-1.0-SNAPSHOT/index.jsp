@@ -120,7 +120,7 @@
                                             <strong>01</strong>
                                             <i><img src="images/test-tubes.png" style="width: 93px; height: 93px"></i>
                                             <span style="font-size:20px; margin:40px 0px 40px;">Raccolta Campione</span>
-                                            <h3><a href="raccoltaCampione.jsp" title="">VAI </a></h3>
+                                            <h3><a href="raccoltaCampione.jsp" title="" class="vai">VAI </a></h3>
                                         </div>
                                     </div><!-- Links -->
                                 </div>
@@ -130,7 +130,7 @@
                                             <strong>02</strong>
                                             <i><img src="images/binoculars.png" style="width: 95px; height: 95px"></i>
                                             <span style="font-size:20px; margin:40px 0px 40px;">Monitora un fiume</span>
-                                            <h3><a href="sceltaPagine.jsp" title="">VAI </a></h3>
+                                            <h3><a href="sceltaPagine.jsp" title="" class="vai">VAI </a></h3>
                                         </div>
                                     </div><!-- Links -->
                                 </div>
@@ -140,7 +140,7 @@
                                             <strong>03</strong>
                                             <i><img src="images/reports.png" style="width: 95px; height: 95px"></i>
                                             <span style="font-size:20px; margin:40px 0px 40px;">Segnala un fiume inquinato</span>
-                                            <h3><a href="segnalaFiume.jsp" title="">VAI </a></h3>
+                                            <h3><a href="segnalaFiume.jsp" title="" class="vai">VAI </a></h3>
                                         </div>
                                     </div><!-- Links -->
                                 </div>
@@ -164,7 +164,7 @@
                             <h2 style="font-family: arimo">Hydro-Flow è un progetto nell'ambito della Citizen-Science
                             in cui, tu stesso, vesti i panni di uno "scienziato" contribuendo in prima persona alla
                             raccolta di campioni, dati ed informazioni dei fiumi inquinati.  </h2>
-                             <i class="fa fa-forumbee"> ciao</i>
+                            <!-- <i class="fa fa-forumbee"></i> -->
                         </div>
                     </div>
                 </div>

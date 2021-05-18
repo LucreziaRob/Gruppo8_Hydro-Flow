@@ -5355,6 +5355,10 @@ div.ppt {
     animation-name: fadeOut
 }
 
+.vai:hover {
+    color: #3F75D9;
+}
+
 @-webkit-keyframes fadeOut {
     0% {
         opacity: 1
