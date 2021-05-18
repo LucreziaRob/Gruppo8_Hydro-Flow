@@ -278,9 +278,6 @@ header {
     width: 20%;
 }
 
-.logo a {
-    float: left;
-}
 
 .logo img {
     max-width: 100%;
@@ -5354,10 +5351,40 @@ div.ppt {
     -webkit-animation-name: fadeOut;
     animation-name: fadeOut
 }
+/*BUTTON*/
 
-.vai:hover {
-    color: #3F75D9;
+.bouncy{
+    animation:bouncy 5s infinite linear;
+    position:relative;
+    display:inline-block;
+    padding:0.3em 1.2em;
+    margin:0 0.1em 0.1em 0;
+    border:0.1px solid rgba(255,255,255,0);
+    border-radius:2em;
+    border-color: black;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    color: #ffffff;
+    text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
+    text-align:center;
+    transition: all 0.2s;
 }
+.bouncy:hover{
+    background-color: rgba(63, 117, 217, 0.7);
+    color: white;
+}
+@keyframes bouncy {
+0%{top:0em}
+40%{top:0em}
+43%{top:-0.9em}
+46%{top:0em}
+48%{top:-0.4em}
+50%{top:0em}
+100%{top:0em;}
+}
+
 
 @-webkit-keyframes fadeOut {
     0% {

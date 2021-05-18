@@ -28,7 +28,7 @@
     <header class="stick transparent-header">
         <div class="container">
             <div class="logo" style="width: 35%;display: block; margin-left: auto; margin-right: auto"><a href="#" title=""><img
-                    src="images/logoGoccia.gif" alt=""/></a></div><!-- Logo -->
+                    src="images/logoGoccia.gif" alt="" style="display: block;margin-left: auto;margin-right: auto;"/></a></div><!-- Logo -->
         </div>
     </header><!-- Header -->
     <div class="responsive-header">
@@ -53,10 +53,17 @@
                                              data-speed="500" data-start="1400" data-easing="Back.easeOut"
                                              data-captionhidden="on" style="font-size:80px;">AIUTIAMO IL MONDO!
                                         </div>
-                                        <a href="#arrivo" title="" class="tp-caption sfr slide-btn"
+                                        <div class="tp-caption sfb slide-subtitle" data-x="0" data-y="340"
+                                             data-speed="500" data-start="2300" data-easing="Back.easeOut"
+                                             data-captionhidden="on"
+                                             style="font-size:22px;letter-spacing:12px;padding:15px 40px;">
+                                            <a href="#arrivo">Scopri di più!</a>
+
+                                        </div>
+                                       <!-- <a href="#arrivo" title="" class="tp-caption sfr slide-btn"
                                            data-x="420" data-y="470" data-speed="500" data-start="1800"
                                            data-easing="Back.easeOut" data-captionhidden="on"
-                                           style="font-size:16px;padding:7px 40px;">Scopri di più!</a>
+                                           style="font-size:16px;padding:7px 40px;">Scopri di più!</a>-->
                                     </li><!-- Slide 1 -->
 
                                     <li data-transition="zoomout" data-slotamount="10" data-masterspeed="1000">
@@ -74,7 +81,6 @@
                                             dolor sit <br/> molestias nostrum suscipit doloribus, tempore dolorum
                                             corrupti. amet, consectetur
                                         </div>
-
                                     </li><!-- Slide 2 -->
 
                                     <li data-transition="fadetotopfadefrombottom" data-slotamount="10"
@@ -120,7 +126,7 @@
                                             <strong>01</strong>
                                             <i><img src="images/test-tubes.png" style="width: 93px; height: 93px"></i>
                                             <span style="font-size:20px; margin:40px 0px 40px;">Raccolta Campione</span>
-                                            <h3><a href="raccoltaCampione.jsp" title="" class="vai">VAI </a></h3>
+                                            <h3><a href="raccoltaCampione.jsp" title="" class="bouncy">VAI </a></h3>
                                         </div>
                                     </div><!-- Links -->
                                 </div>
@@ -130,7 +136,7 @@
                                             <strong>02</strong>
                                             <i><img src="images/binoculars.png" style="width: 95px; height: 95px"></i>
                                             <span style="font-size:20px; margin:40px 0px 40px;">Monitora un fiume</span>
-                                            <h3><a href="sceltaPagine.jsp" title="" class="vai">VAI </a></h3>
+                                            <h3><a href="sceltaPagine.jsp" title="" class="bouncy" style="animation-delay:0.07s">VAI </a></h3>
                                         </div>
                                     </div><!-- Links -->
                                 </div>
@@ -140,7 +146,7 @@
                                             <strong>03</strong>
                                             <i><img src="images/reports.png" style="width: 95px; height: 95px"></i>
                                             <span style="font-size:20px; margin:40px 0px 40px;">Segnala un fiume inquinato</span>
-                                            <h3><a href="segnalaFiume.jsp" title="" class="vai">VAI </a></h3>
+                                            <h3><a href="segnalaFiume.jsp" title="" class="bouncy" style="animation-delay:0.14s">VAI </a></h3>
                                         </div>
                                     </div><!-- Links -->
                                 </div>
@@ -162,8 +168,8 @@
                         <div class="welcome-box">
                             <h3>COS'È <span>HYDRO-FLOW</span>?</h3>
                             <h2 style="font-family: arimo">Hydro-Flow è un progetto nell'ambito della Citizen-Science
-                            in cui, tu stesso, vesti i panni di uno "scienziato" contribuendo in prima persona alla
-                            raccolta di campioni, dati ed informazioni dei fiumi inquinati.  </h2>
+                                in cui, tu stesso, vesti i panni di uno "scienziato" contribuendo in prima persona alla
+                                raccolta di campioni, dati ed informazioni dei fiumi inquinati. </h2>
                             <!-- <i class="fa fa-forumbee"></i> -->
                         </div>
                     </div>
@@ -218,7 +224,7 @@
                                     <p></p>
                                     <!-- <img src="images/1.png" width="10%"/> -->
                                     <h4 style="font-size:30px; text-align: center;">
-                                       1. Trova un fiume
+                                        1. Trova un fiume
                                     </h4>
                                 </div>
 
@@ -246,13 +252,13 @@
                                     <p></p>
                                     <!-- <img src="images/3.png" width="10%"/> -->
                                     <h4 style="font-size:30px; text-align: center;">
-                                       3. Condividile con le associazioni interessate
+                                        3. Condividile con le associazioni interessate
                                     </h4>
                                 </div>
 
                             </div>
                         </div><!-- All Texty -->
-                     </div>
+                    </div>
                 </div>
             </div>
         </div>
