@@ -44,7 +44,7 @@
   <div class="page-top">
     <div style="background:url(http://placehold.it/1600x839);" class="parallax"></div>
     <div class="container">
-      <h3>INOLTRA IL CAMPIONE AD UNA <i>ASSOCIAZIONE</i></h3>
+      <h3 style="margin-top: 100px">INOLTRA IL CAMPIONE AD UNA <i>ASSOCIAZIONE</i></h3>
     </div>
   </div>
 </div>
