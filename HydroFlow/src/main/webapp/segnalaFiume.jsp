@@ -33,12 +33,12 @@
     <header class="stick transparent-header">
         <div class="container">
             <div class="logo" style="width: 35%;display: block; margin-left: auto; margin-right: auto"><a href="index.jsp" title=""><img
-                    src="images/logoGoccia.gif" alt=""/></a></div><!-- Logo -->
+                    src="images/logoGoccia.gif" alt="" style="display: block;margin-left: auto;margin-right: auto;"/></a></div><!-- Logo -->
         </div>
     </header><!-- Header -->
     <div class="responsive-header">
         <div class="responsive-menu">
-            <div class="logo"><a href="index.jsp" title=""><img src="images/logoGoccia.gif" alt=""/></a></div>
+            <div class="logo"><a href="index.jsp" title=""><img src="images/logoGoccia.gif" alt="" /></a></div>
         </div><!-- Responsive Menu -->
     </div>
 
