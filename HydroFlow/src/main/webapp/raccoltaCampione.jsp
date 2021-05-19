@@ -32,7 +32,7 @@
 </head>
 <body>
 <div class="theme-layout">
-    <header class="stick" style="background-color: #4e4e4e">
+    <header class="stick transparent-header" style="background-color: black; opacity: 80%">
         <div class="container">
             <div class="logo" style="display: block; margin-left: auto; margin-right: auto"><a href="index.jsp" title=""><img src="images/logoGoccia.gif" alt="" /></a></div><!-- Logo -->
         </div>
@@ -45,9 +45,9 @@
 
 
     <div class="page-top">
-        <div style="background:url(http://placehold.it/1600x839);" class="parallax"></div>
+        <div style="background:url(images/campioneAcqua.jpg);background-position: bottom;" class="parallax"></div>
         <div class="container">
-            <h3>RACCOLTA <i>CAMPIONE</i></h3>
+            <h3 style="margin-top: 100px">RACCOLTA <i>CAMPIONE</i><br><br></h3>
         </div>
     </div>
 </div>
