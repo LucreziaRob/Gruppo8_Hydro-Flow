@@ -33,7 +33,7 @@
   <header class="stick transparent-header">
     <div class="container">
       <div class="logo" style="width: 35%;display: block; margin-left: auto; margin-right: auto"><a href="index.jsp" title=""><img
-              src="images/logoGoccia.gif" alt=""/></a></div><!-- Logo -->
+              src="images/logoGoccia.gif" alt="" style="display: block;margin-left: auto;margin-right: auto;"/></a></div><!-- Logo -->
     </div>
   </header><!-- Header -->
   <div class="responsive-header">
@@ -87,7 +87,7 @@
                       <strong>01</strong>
                       <i><img src="images/test-tubes.png" style="width: 65px; height: 65px"></i>
                       <span style="font-size:20px; margin:40px 0px 40px;">Inoltra una foto</span>
-                      <h3><a href="inoltroFoto.jsp" title="" class="vai">VAI </a></h3>
+                      <h3><a href="inoltroFoto.jsp" title="" class="bouncy">VAI </a></h3>
                     </div>
                   </div><!-- Links -->
                 </div>
@@ -97,7 +97,7 @@
                       <strong>02</strong>
                       <i><img src="images/reports.png" style="width: 65px; height: 65px"></i>
                       <span style="font-size:20px; margin:40px 0px 40px;">Monitora un fiume</span>
-                      <h3><a href="monitoraFiume.jsp" title="" class="vai">VAI </a></h3>
+                      <h3><a href="monitoraFiume.jsp" title="" class="bouncy">VAI </a></h3>
                     </div>
                   </div><!-- Links -->
                 </div>

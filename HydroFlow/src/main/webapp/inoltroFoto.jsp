@@ -28,15 +28,15 @@
   <link rel="stylesheet" type="text/css" href="css/color/color.css" title="color" />
 </head>
 <body>
-<div class="theme-layout">
-  <header class="stick" style="background-color: #4e4e4e">
+<div class="theme-layout" >
+  <header class="stick transparent-header" style="background-color: black; opacity: 80%">
     <div class="container">
-      <div class="logo" style="display: block; margin-left: auto; margin-right: auto"><a href="index.jsp" title=""><img src="images/logoGoccia.gif" alt="" /></a></div><!-- Logo -->
+      <div class="logo" style="display: block; margin-left: auto; margin-right: auto"><a href="index.jsp" title=""><img src="images/logoGoccia.gif" alt="" style="display: block;margin-left: auto;margin-right: auto;"/></a></div><!-- Logo -->
     </div>
   </header><!-- Header -->
   <div class="responsive-header" style="background-color: #4e4e4e">
     <div class="responsive-menu">
-      <div class="logo"><a href="index.jsp" title=""><img src="images/logoGoccia.gif" alt="" /></a></div>
+      <div class="logo"><a href="index.jsp" title=""><img src="images/logoGoccia.gif" alt=""  /></a></div>
     </div><!-- Responsive Menu -->
   </div><!-- Responsive Header -->
 

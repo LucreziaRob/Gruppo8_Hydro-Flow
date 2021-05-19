@@ -71,15 +71,18 @@
                                              data-bgposition="left top" data-bgrepeat="no-repeat">
                                         <div class="tp-caption sft slide-title2" data-x="center" data-y="275"
                                              data-speed="500" data-start="1000" data-easing="Back.easeOut"
-                                             data-captionhidden="on" style="font-size:70px;letter-spacing:20px;">T<i>HE
-                                            DE</i>SERT
+                                             data-captionhidden="on" style="font-size:70px;letter-spacing:20px;"><i>L'AC</i>QUA
                                         </div>
                                         <div class="tp-caption sft slide-desc" data-x="center" data-y="370"
                                              data-speed="500" data-start="1400" data-easing="Back.easeOut"
-                                             data-captionhidden="on" style="font-size:16px; text-align:center;">Lorem
-                                            ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam, autem ipsum
-                                            dolor sit <br/> molestias nostrum suscipit doloribus, tempore dolorum
-                                            corrupti. amet, consectetur
+                                             data-captionhidden="on" style="font-size:20px; text-align:center;"> L'acqua
+                                            è il composto chimico più abbondante sulla terra, si trova in tutti gli ambienti ed è parte<br/>
+                                            integrante di tutti gli organisimi viventi. La quantità presente sulla terra è immensa e<br/>
+                                            anche il nostro corp è per il 75% composto di acqua.  L'acqua è indispensabile per la nostra<br/>
+                                            salute: bbere acqua serve infatti a mantenere sani i nostri organi e a sostituire <br/>i liquidi
+                                            che perdiamo con la respirazione, il sudore e la digestione. L'acqua è quindi<br/> un elemento fondamnetale
+                                            per la vita sul e del nostro pianeta.
+
                                         </div>
                                     </li><!-- Slide 2-->
 
@@ -89,19 +92,9 @@
                                              data-bgposition="left top" data-bgrepeat="no-repeat">
                                         <div class="tp-caption sfb slide-title" data-x="0" data-y="240" data-speed="500"
                                              data-start="2000" data-easing="Back.easeOut" data-captionhidden="on"
-                                             style="font-size:70px;">Its All <span>About Beauty</span></div>
-                                        <div class="tp-caption sfb slide-subtitle" data-x="0" data-y="340"
-                                             data-speed="500" data-start="2300" data-easing="Back.easeOut"
-                                             data-captionhidden="on"
-                                             style="font-size:22px;letter-spacing:12px;padding:15px 40px;">The Futures
-                                            Of Desert
-                                        </div>
-                                        <div class="tp-caption sfb slide-desc" data-x="0" data-y="440" data-speed="500"
-                                             data-start="2600" data-easing="Back.easeOut" data-captionhidden="on"
-                                             style="font-size:16px;">Lorem ipsum dolor sit amet, consectetur adipisicing
-                                            elit. Et aliquam, autem <br/> molestias nostrum suscipit doloribus, tempore
-                                            dolorum corrupti.
-                                        </div>
+                                             style="font-size:50px;">Non inquinare -
+                                            <span><br/><br/>
+                                                <br/>i pianeti buoni sono difficili <br/> <br/> <br/>da trovare</span></div>
                                     </li><!-- Slide 3-->
                                 </ul>
                             </div>
