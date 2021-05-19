@@ -41,11 +41,15 @@
   </div><!-- Responsive Header -->
 
 
-
-
   <section>
     <div class="block gray">
+      <nav style="margin-left: 10px">
+        <a href="index.jsp" class="nav-path" style="border-color: #f4f6ff">HOME</a>&nbsp|&nbsp
+        <a href="inoltroFoto.jsp" class="nav-path" style="border-color: #f4f6ff">INOLTRA FOTO</a>
+      </nav>
+
       <div class="container">
+
         <div class="row">
           <div class="col-md-12 column">
             <div class="row">
@@ -66,6 +70,9 @@
                     </div>
                   </div><!-- Project -->
                 </div>
+
+
+
                 <div class="col-md-6">
                   <div class="project" style="width: 275px; height: 183px">
                     <img src="images/images-4.jpg" alt="" />
@@ -121,7 +128,6 @@
       </div>
     </div>
   </section>
-
 
   <section>
     <div class="block remove-gap gray">

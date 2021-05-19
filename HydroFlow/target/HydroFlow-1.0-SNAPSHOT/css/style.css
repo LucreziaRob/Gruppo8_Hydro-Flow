@@ -5405,6 +5405,24 @@ a#buttonSlider:hover{
     background-color: rgba(63, 117, 217, 0.7);
     color: white;
 }
+
+.nav-path{
+    padding:0.3em 1.2em;
+    margin:0 0.1em 0.1em 0;
+    border:0.1px solid rgba(255,255,255,0);
+    border-radius:2em;
+    border-color: white;
+    text-decoration:none;
+    text-align:center;
+    transition: all 0.2s;
+    font-size: 15px;
+}
+
+.nav-path:hover{
+    background-color: rgba(63, 117, 217, 0.7);
+    color: #FFFFFF;
+}
+
 @keyframes bouncy {
 0%{top:0em}
 40%{top:0em}
@@ -5414,7 +5432,6 @@ a#buttonSlider:hover{
 50%{top:0em}
 100%{top:0em;}
 }
-
 
 @-webkit-keyframes fadeOut {
     0% {

@@ -162,7 +162,7 @@
                     <div class="col-md-12 column">
                         <div class="welcome-box">
                             <h3>COS'È <span>HYDRO-FLOW</span>?</h3>
-                            <p style="font-family: 'Indie Flower', cursive; font-size: 30px;font-weight: bolder;">
+                                <p style="font-family: 'Helvetica Neue', cursive; font-size: 30px;font-weight: bolder;">
                                 Hydro-Flow è un progetto nell'ambito della Citizen-Science
                                 in cui, tu stesso, vesti i panni di uno "scienziato" contribuendo in prima persona alla
                                 raccolta di campioni, dati ed informazioni dei fiumi inquinati. </p>

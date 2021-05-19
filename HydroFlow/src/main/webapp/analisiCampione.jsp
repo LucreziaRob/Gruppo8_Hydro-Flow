@@ -42,7 +42,6 @@
     </div><!-- Responsive Menu -->
   </div>
 
-
   <section>
     <div class="block remove-gap remove-bottom gray">
       <div class="row">
@@ -72,6 +71,11 @@
     </div>
   </section>
 
+  <nav style="margin-left: 10px">
+    <a href="index.jsp" class="nav-path">HOME</a>&nbsp|&nbsp
+    <a href="raccoltaCampione.jsp" class="nav-path">RACCOLTA CAMPIONE</a>&nbsp|&nbsp
+    <a href="analisiCampione.jsp" class="nav-path">ANALISI CAMPIONE</a>
+  </nav>
 
   <section>
     <div class="block gray remove-gap">

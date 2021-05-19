@@ -51,7 +51,10 @@
         </div>
     </div>
 </div>
-
+<nav style="margin-left: 10px">
+    <a href="index.jsp" class="nav-path">HOME</a>&nbsp|&nbsp
+    <a href="raccoltaCampione.jsp" class="nav-path">RACCOLTA CAMPIONE</a>
+</nav>
     <section>
         <div class="block gray">
             <div class="container">

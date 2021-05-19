@@ -50,7 +50,14 @@
 </div>
 
   <section>
+
     <div class="block gray">
+      <nav style="margin-left: 10px; margin-top: -230px">
+        <a href="index.jsp" class="nav-path" style="border-color: #f4f6ff">HOME</a>&nbsp|&nbsp
+        <a href="raccoltaCampione.jsp" class="nav-path" style="border-color: #f4f6ff">RACCOLTA CAMPIONE</a>&nbsp|&nbsp
+        <a href="inoltroCampione.jsp" class="nav-path" style="border-color: #f4f6ff">INOLTRA CAMPIONE</a>
+      </nav>
+
       <div class="container">
         <div class="row">
           <div class="col-md-12 column">
@@ -105,7 +112,6 @@
         </div>
       </div>
     </div>
-
   </section>
 
 

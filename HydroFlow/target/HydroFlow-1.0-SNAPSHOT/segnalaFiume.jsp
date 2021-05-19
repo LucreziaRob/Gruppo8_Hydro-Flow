@@ -71,7 +71,10 @@
             </div>
         </div>
     </section>
-
+    <nav style="margin-left: 10px">
+        <a href="index.jsp" class="nav-path">HOME</a>&nbsp|&nbsp
+        <a href="segnalaFiume.jsp" class="nav-path">SEGNALA FIUME</a>
+    </nav>
 
 
     <section>
