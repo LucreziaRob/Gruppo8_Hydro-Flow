@@ -30,7 +30,7 @@
 </head>
 <body>
 <div class="theme-layout">
-  <header class="stick transparent-header" style="background-color: black; opacity: 80%">
+  <header class="stick transparent-header">
     <div class="container">
       <div class="logo" style="width: 35%;display: block; margin-left: auto; margin-right: auto"><a href="index.jsp" title=""><img
               src="images/logoGoccia.gif" alt="" style="display: block;margin-left: auto;margin-right: auto;"/></a></div><!-- Logo -->
