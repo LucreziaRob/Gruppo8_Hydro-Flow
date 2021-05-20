@@ -52,7 +52,7 @@
                             <div class="tp-banner">
                                 <ul>
                                     <li data-transition="zoomout" data-slotamount="10" data-masterspeed="1000" >
-                                        <img src="http://placehold.it/1600x839"  alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                                        <img src="images/water_pollution.jpg"  alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" style="background-position-y: -200px;height: 60%;">
                                         <div class="tp-caption sfb slide-title" data-x="center" data-y="330" data-speed="500" data-start="1400" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:80px;">SEGNALA UN FIUME INQUINATO</div>
                                         <div class="tp-caption sft slide-desc" data-x="center" data-y="370"
                                              data-speed="500" data-start="1400" data-easing="Back.easeOut"
@@ -270,7 +270,7 @@
 
     <footer>
         <div class="block">
-            <div class="parallax" style="background:url(http://placehold.it/1600x839);"></div>
+            <div class="parallax" style="background:url(images/water_pollution.jpg); background-position-y: -200px;height: 60%;"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 column">

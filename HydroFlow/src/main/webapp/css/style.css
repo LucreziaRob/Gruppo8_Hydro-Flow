@@ -278,11 +278,14 @@ header {
     left: 0;
     vertical-align: middle;
     width: 20%;
+
 }
 
 
 .logo img {
     max-width: 100%;
+    display: block;
+    margin: 0 auto;
 }
 
 .menus {
@@ -3086,7 +3089,7 @@ section#options {
     content: "";
     height: 100%;
     left: 0;
-    opacity: 0.6;
+    opacity: 0.2;
     position: absolute;
     top: 0;
     width: 100%;

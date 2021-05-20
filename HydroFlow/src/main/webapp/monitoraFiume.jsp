@@ -30,7 +30,7 @@
 </head>
 <body>
 <div class="theme-layout">
-  <header class="stick transparent-header">
+  <header class="stick transparent-header" style="background-color: black; opacity: 80%">
     <div class="container">
       <div class="logo" style="width: 35%;display: block; margin-left: auto; margin-right: auto"><a href="index.jsp" title=""><img
               src="images/logoGoccia.gif" alt="" style="display: block;margin-left: auto;margin-right: auto;"/></a></div><!-- Logo -->
@@ -52,7 +52,7 @@
               <div class="tp-banner">
                 <ul>
                   <li data-transition="zoomout" data-slotamount="10" data-masterspeed="1000" >
-                    <img src="http://placehold.it/1600x839"  alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                    <img src="images/monitoraFiume.jpg"  alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" style="height: 70%">
                     <div class="tp-caption sfb slide-title" data-x="center" data-y="330" data-speed="500" data-start="1400" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:80px;">MONITORA UN FIUME</div>
                     <div class="tp-caption sft slide-desc" data-x="center" data-y="370"
                          data-speed="500" data-start="1400" data-easing="Back.easeOut"
@@ -292,7 +292,7 @@
 
   <footer>
     <div class="block">
-      <div class="parallax" style="background:url(http://placehold.it/1600x839);"></div>
+      <div class="parallax" style="background:url(images/monitoraFiume.jpg);"></div>
       <div class="container">
         <div class="row">
           <div class="col-md-12 column">
