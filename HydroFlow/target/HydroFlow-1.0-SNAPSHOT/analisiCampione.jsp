@@ -281,7 +281,7 @@
                 <div class="col-md-6"><label>Si è indivisato un batterio? Quale</label></div>
                 <div class="col-md-6"><input type="text" /></div>
                 <div class="col-md-12"><textarea name="comments" id="comments"  placeholder="Descrizione"></textarea></div>
-                <div class="col-md-12"><button title="" class="readmore button" type="submit" id="submit"><span>Inoltra campione<i class="fa fa-angle-double-right"></i></span></button></div>
+                <div class="col-md-12"><button title="" class="readmore button" type="submit"><span>Inoltra campione<i class="fa fa-angle-double-right"></i></span></button></div>
               </div>
             </form>
           </div>

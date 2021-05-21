@@ -289,7 +289,7 @@
                     <div id="dialogboxfoot"></div>
                   </div>
                </div>
-                <div class="col-md-12"><button title="" class="readmore button" type="submit" id="submit" onclick="Alert.render('Sicuro di voler inoltrare il questionario?')"><span>Inoltra<i class="fa fa-angle-double-right"></i></span></button></div>
+                <div class="col-md-12"><button title="" class="readmore button" type="submit" onclick="Alert.render('Sicuro di voler inoltrare il questionario?')"><span>Inoltra<i class="fa fa-angle-double-right"></i></span></button></div>
               </div>
             </form>
           </div>

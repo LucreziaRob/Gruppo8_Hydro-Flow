@@ -257,7 +257,7 @@
                                         <option>Fiume Sile</option>
                                         <option>Fiume Taglio del Sile</option>
                                     </datalist></div>
-                                <div class="col-md-12"><button title="" class="readmore button" type="submit" id="submit" style="margin-top: 20px"><span>Grazie per il tuo aiuto <i class="fa fa-angle-double-right"></i></span></button></div>
+                                <div class="col-md-12"><button title="" class="readmore button" type="submit" style="margin-top: 20px"><span>Grazie per il tuo aiuto <i class="fa fa-angle-double-right"></i></span></button></div>
                             </div>
                         </form>
                     </div>
