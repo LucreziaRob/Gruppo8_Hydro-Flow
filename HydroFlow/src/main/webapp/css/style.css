@@ -5357,29 +5357,29 @@ div.ppt {
     animation-name: fadeOut
 }
 
-#dialogoverlay{
+/*#dialogoverlay{
     display: none;
     opacity: .8;
     position: fixed;
     top: 0px;
     left: 0px;
-    background-color: yellow;
+
     z-index: 10;
     width: 100px;
-}
+}*/
 
 #dialogbox{
-    display: none;
     position: fixed;
     background-color: black;
     border-radius: 7px;
     width: 500px;
-    z-index: 10;
+    z-index: 20;
 }
 
 #dialogbox > div{ background: yellow; margin: 8px}
 #dialogbox > div > #dialogboxhead{background: #666; font-size: 19px; padding: 10px; color: #ccc}
-#dialogbox > div > #dialogboxbody{background: #333; padding: 20px; color: yellow}
+#dialogbox > div > #dialogboxbody{background: #333; padding: 20px; color: #ffffff
+}
 #dialogbox > div > #dialogboxfoot{background: #666; padding: 10px; text-align: right}
 /*BUTTON*/
 
