@@ -61,10 +61,24 @@
                 <div class="row">
                     <div class="col-md-12 column">
                         <div class="single-post">
-                            <div class="single-post-img">
+                            <!--<div class="single-post-img">
                                 <img src="http://placehold.it/1170x511" alt=""/>
+                            </div> -->
+                            <h2 style="font-size: 40px">COME RACCOGLIERE L'ACQUA IN MODO SICURO?</h2>
+                            <p></p>
+                            <p></p>
+                            <p></p>
+                            <div class="row">
+                                <div class="col-md-6">
+                            <p style="font-size: 30px; font-family: JaapokkiRegular"> DI COSA HAI BISOGNO? </p>
+                                    <p style="font-size: 20px; font-family: JaapokkiRegular; margin: 10px; margin-left: 30px"> - Procurati un kit per l'analisi dell'acqua costituito da una siringa per raccogliere l'acqua, una provetta da riempire con l'acqua raccolta, un reagente da utilizzare in seguito. </p>
+                                    <p style="font-size: 20px; font-family: JaapokkiRegular; margin: 10px 100px 10px 100px"> - un paio di guanti </p>
+                                    <p style="font-size: 20px; font-family: JaapokkiRegular; margin: 10px;"> - un foglio e una matita </p>
+                                </div>
+                                <div class="col-md-6">
+                                    <img src="images/kitTest.jpg" style="width: 300px; height: 300px; margin-top: 50px">
+                                </div>
                             </div>
-                            <h2>COME RACCOGLIERE L'ACQUA IN MODO SICURO</h2>
                             <p>Integer sollicitudin ligula non enim sodales, nonwer lacinia nunc ornare. Sewid commodo
                                 tempor dapibus. Duis convallis turpis in tortor volutpat, are risus in euismod varius
                                 nullam feugiat ultrices. Sed condimentum estwer libero, aliqculis.Phasellus scelerisque
