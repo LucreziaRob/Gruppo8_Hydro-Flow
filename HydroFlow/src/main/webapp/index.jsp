@@ -75,7 +75,7 @@
                                         </div>
                                         <div class="tp-caption sft slide-desc" data-x="center" data-y="370"
                                              data-speed="500" data-start="1400" data-easing="Back.easeOut"
-                                             data-captionhidden="on" style="font-size:20px; text-align:center; background-color: rgba(255,250,250,0.34); color: #0f3e68"> L'acqua
+                                             data-captionhidden="on" style="font-size:20px; text-align:center; background-color: rgba(0,0,0,0.34); padding: 20px;color: #ffffff"> L'acqua
                                             è il composto chimico più abbondante sulla terra, si trova in tutti gli ambienti ed è parte<br/>
                                             integrante di tutti gli organisimi viventi. La quantità presente sulla terra è immensa e<br/>
                                             anche il nostro corp è per il 75% composto di acqua.  L'acqua è indispensabile per la nostra<br/>
