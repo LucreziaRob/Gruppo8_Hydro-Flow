@@ -64,21 +64,37 @@
                             <!--<div class="single-post-img">
                                 <img src="http://placehold.it/1170x511" alt=""/>
                             </div> -->
-                            <h2 style="font-size: 40px">COME RACCOGLIERE L'ACQUA IN MODO SICURO?</h2>
+                            <h2 style="font-size: 40px">COME RACCOGLIERE L'ACQUA IN MODO SICURO</h2>
                             <p></p>
                             <p></p>
                             <p></p>
                             <div class="row">
                                 <div class="col-md-6">
-                            <p style="font-size: 30px; font-family: JaapokkiRegular"> DI COSA HAI BISOGNO? </p>
+                            <p style="font-size: 30px; font-family: JaapokkiRegular; color: #474343" > DI COSA HAI BISOGNO? </p>
                                     <p style="font-size: 20px; font-family: JaapokkiRegular; margin: 10px; margin-left: 30px"> - Procurati un kit per l'analisi dell'acqua costituito da una siringa per raccogliere l'acqua, una provetta da riempire con l'acqua raccolta, un reagente da utilizzare in seguito. </p>
-                                    <p style="font-size: 20px; font-family: JaapokkiRegular; margin: 10px 100px 10px 100px"> - un paio di guanti </p>
-                                    <p style="font-size: 20px; font-family: JaapokkiRegular; margin: 10px;"> - un foglio e una matita </p>
+                                    <p style="font-size: 20px; font-family: JaapokkiRegular; margin: 10px 50px 10px 50px"> - Un paio di guanti e, se la trovi, una tuta protettiva </p>
+                                    <p style="font-size: 20px; font-family: JaapokkiRegular; margin: 10px;"> - Un foglio, una matita e delle etichette </p>
                                 </div>
                                 <div class="col-md-6">
                                     <img src="images/kitTest.jpg" style="width: 300px; height: 300px; margin-top: 50px">
                                 </div>
                             </div>
+
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p style="font-size: 30px; font-family: JaapokkiRegular; color: #474343"> COME PROCEDERE? </p>
+                                    <p style="font-size: 20px; font-family: JaapokkiRegular; margin: 10px; margin-left: 30px"> - Recati nei pressi del fiume che vuoi analizzare con il kit, i dispostitivi di protezione ed il foglio con matita </p>
+                                    <p style="font-size: 20px; font-family: JaapokkiRegular; margin: 10px; margin-left: 30px"> - Indossa i guanti e, se ne disponi, la tuta protettiva. Non sappiamo come e perchè il fiume che hai trovato è inquinato, quindi è necessario proteggersi al meglio </p>
+                                    <p style="font-size: 20px; font-family: JaapokkiRegular; margin: 10px;"> - Utilizza la siringa per raccogliere l'acqua del fiume </p>
+                                    <p style="font-size: 20px; font-family: JaapokkiRegular; margin: 10px; margin-left: 30px"> - Facendo attenzione a non contaminarla, inserisci l'acqua raccolta nella provetta </p>
+                                    <p style="font-size: 20px; font-family: JaapokkiRegular; margin: 10px; margin-left: 30px"> - Annota sul foglio che hai con te il giorno ed il luogo, più preciso possibile, del prelievo del campione </p>
+                                </div>
+                                <div class="col-md-6">
+                                    <img src="images/raccoltaAcquaP.jpg" style="width: 400px; height: 300px; margin-top: 50px">
+                                </div>
+                            </div>
+
+
                             <p>Integer sollicitudin ligula non enim sodales, nonwer lacinia nunc ornare. Sewid commodo
                                 tempor dapibus. Duis convallis turpis in tortor volutpat, are risus in euismod varius
                                 nullam feugiat ultrices. Sed condimentum estwer libero, aliqculis.Phasellus scelerisque

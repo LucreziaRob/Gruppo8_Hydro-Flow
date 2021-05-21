@@ -92,9 +92,9 @@
                                              data-bgposition="left top" data-bgrepeat="no-repeat">
                                         <div class="tp-caption sfb slide-title" data-x="0" data-y="240" data-speed="500"
                                              data-start="2000" data-easing="Back.easeOut" data-captionhidden="on"
-                                             style="font-size:50px;">Non inquinare -
+                                             style="font-size:50px;">Non inquinare!
                                             <span><br/><br/>
-                                                <br/>i pianeti buoni sono difficili <br/> <br/> <br/>da trovare</span></div>
+                                                <br/>Non esiste un pianeta di riserva! <br/> <br/> <br/></span></div>
                                     </li><!-- Slide 3-->
                                 </ul>
                             </div>
