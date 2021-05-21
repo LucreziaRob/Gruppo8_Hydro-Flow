@@ -52,15 +52,12 @@
               <div class="tp-banner">
                 <ul>
                   <li data-transition="zoomout" data-slotamount="10" data-masterspeed="1000" >
-                    <img src="http://placehold.it/1600x839"  alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
-                    <div class="tp-caption lft slide-subtitle2" data-x="center" data-y="250" data-speed="500" data-start="1000" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:22px;letter-spacing:20px;">FAI LA TUA SCELTA!</div>
+                    <img src="images/MonitoraFiume123.jpg"  alt="fiume che scorre"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                    <div class="tp-caption lft slide-subtitle2" data-x="center" data-y="250" data-speed="500" data-start="1000" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:28px;letter-spacing:20px; color: #ffffff; font-weight: bold ">FAI LA TUA SCELTA!</div>
                     <div class="tp-caption sfb slide-title" data-x="center" data-y="330" data-speed="500" data-start="1400" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:80px;">MONITORA UN FIUME</div>
                     <div class="tp-caption sft slide-desc" data-x="center" data-y="370"
                          data-speed="500" data-start="1400" data-easing="Back.easeOut"
-                         data-captionhidden="on" style="font-size:16px; text-align:center;">Lorem
-                      ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam, autem ipsum
-                      dolor sit <br/> molestias nostrum suscipit doloribus, tempore dolorum
-                      corrupti. amet, consectetur
+                         data-captionhidden="on" style="font-size:20px; text-align:center; font-family: Roboto; letter-spacing:5px; font-weight: bolder; margin-top: 20px; background-color: rgba(0,0,0,0.34); padding: 20px;"> HAI VISTO UN FIUME INQUINATO? INVIACI UNA FOTO O MONITORALO!
                     </div>
                   </li><!-- Slide 1 -->
 
@@ -85,7 +82,7 @@
                   <div class="links">
                     <div class="link-inner">
                       <strong>01</strong>
-                      <i><img src="images/test-tubes.png" style="width: 65px; height: 65px"></i>
+                      <i><img src="images/camera.png" style="width: 65px; height: 65px"></i>
                       <span style="font-size:20px; margin:40px 0px 40px;">Inoltra una foto</span>
                       <h3><a href="inoltroFoto.jsp" title="" class="bouncy">VAI </a></h3>
                     </div>
