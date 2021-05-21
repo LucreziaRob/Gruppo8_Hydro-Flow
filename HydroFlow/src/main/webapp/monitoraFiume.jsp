@@ -463,7 +463,7 @@
       dialogbox.style.display = "block";
       document.getElementById('dialogboxhead').innerHTML = "Messaggio di Conferma";
       document.getElementById('dialogboxbody').innerHTML = dialog;
-      document.getElementById('dialogboxfoot').innerHTML = '<button onclick="Alert.ok()">Inoltra</button> <button onclick="Alert.no()">Annulla</button>'
+      document.getElementById('dialogboxfoot').innerHTML = '<button id="buttonInoltra" class="nav-path" onclick="Alert.ok()">Inoltra <i class="fa fa-angle-double-right"></i></button> <button id="buttonAnnulla" class="nav-path" onclick="Alert.no()">Annulla</button>'
 
     }
     this.ok = function(){

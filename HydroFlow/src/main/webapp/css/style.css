@@ -5369,18 +5369,20 @@ div.ppt {
 }*/
 
 #dialogbox{
+    display: none;
     position: fixed;
-    background-color: black;
+    background-color: #4e8ce1;
     border-radius: 7px;
     width: 500px;
     z-index: 20;
 }
 
 #dialogbox > div{ background: yellow; margin: 8px}
-#dialogbox > div > #dialogboxhead{background: #666; font-size: 19px; padding: 10px; color: #ccc}
-#dialogbox > div > #dialogboxbody{background: #333; padding: 20px; color: #ffffff
+#dialogbox > div > #dialogboxhead{background: #cccccc; font-size: 19px; padding: 10px; color: #030303
 }
-#dialogbox > div > #dialogboxfoot{background: #666; padding: 10px; text-align: right}
+#dialogbox > div > #dialogboxbody{background: #ffffff; padding: 20px; color: #090909
+}
+#dialogbox > div > #dialogboxfoot{background: #ffffff; padding: 10px; text-align: right}
 /*BUTTON*/
 
 a#buttonSlider{
@@ -5400,6 +5402,9 @@ a#buttonSlider{
     margin: 0px auto;
     font-size: 30px;
 }
+
+
+
 a#buttonSlider:hover{
     color:#000000;
    background-color:#FFFFFF;
@@ -5448,6 +5453,15 @@ a#buttonSlider:hover{
 
 .nav-path:hover{
     background-color: rgba(63, 117, 217, 0.7);
+    color: #FFFFFF;
+}
+
+#buttonInoltra:hover{
+    background-color: rgb(78, 140, 225);
+    color: #FFFFFF;
+}
+#buttonAnnulla:hover{
+    background-color: rgb(78, 140, 225);
     color: #FFFFFF;
 }
 
