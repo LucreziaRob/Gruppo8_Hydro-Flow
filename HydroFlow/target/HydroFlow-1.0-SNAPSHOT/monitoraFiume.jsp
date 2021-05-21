@@ -474,9 +474,11 @@
       window.location.href=jspcall
     }
     this.no = function(){
+      document.getElementById('dialogbox').style.display = "none";
+      document.getElementById('dialogoverlay').style.display = "none";
       //mettere cosa fare in caso di no
-      var jspcall = "monitoraFiume.jsp"
-      window.location.href=jspcall
+      //var jspcall = "monitoraFiume.jsp"
+      //window.location.href=jspcall
     }
   }
 
