@@ -117,8 +117,10 @@
                 <div class="col-md-4">
                   <div class="widget">
                     <h4 class="widget-title">CHI <span>SIAMO</span>?</h4>
-                    <p>Maecenas sit amet tincidu elit. Pellente sque habitant morbi is tristique senectus  tnetus et malesuada fames ac turpis eges tas lorem. Nulla facilisi. Pellentesque habitant mors.</p>
-
+                    <p>Siamo un gruppo di ragazzi che desiderano supportare la cura dell'ambiente e dei fiumi tramite questo sito web. Il nostro team è composto da:<br>
+                      Robustelli Lucrezia, Avino Nunzio<br>
+                      Avino Giuseppe, Iuliano Gaetano<br>
+                      Monaco De Simone Katia.</p>
                   </div><!-- Widget -->
                 </div>
                 <div class="col-md-4">

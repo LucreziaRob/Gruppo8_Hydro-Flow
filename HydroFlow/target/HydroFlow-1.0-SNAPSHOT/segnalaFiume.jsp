@@ -282,11 +282,9 @@
                                     <div class="widget">
                                         <h4 class="widget-title">CHI <span>SIAMO</span>?</h4>
                                         <p>Siamo un gruppo di ragazzi che desiderano supportare la cura dell'ambiente e dei fiumi tramite questo sito web. Il nostro team è composto da:<br>
-                                            Robustelli Lucrezia <br>
-                                        Avino Nunzio<br>
-                                        Avino Giuseppe<br>
-                                        Iuliano Gaetano<br>
-                                        Monaco De Simone Katia.</p>
+                                            Robustelli Lucrezia, Avino Nunzio<br>
+                                            Avino Giuseppe, Iuliano Gaetano<br>
+                                            Monaco De Simone Katia.</p>
 
                                     </div><!-- Widget -->
                                 </div>
