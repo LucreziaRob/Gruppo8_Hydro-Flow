@@ -255,7 +255,7 @@
                     <option>Fiume Taglio del Sile</option>
                   </datalist></div>
                 <div class="col-md-6"><label>Quando l'hai analizzato?</label></div>
-                <div class="col-md-6"><input type="date" /></div>
+                <div class="col-md-6"><input type="date"/></div>
                 <div class="col-md-6"><label>Com'è si presenta il campione?</label></div>
                 <div class="col-md-6"><input type="text" name="list" list="lista">
                   <datalist id="lista">
