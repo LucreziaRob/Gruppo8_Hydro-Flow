@@ -50,6 +50,14 @@
     url('jaapokki-regular.svg#JaapokkiRegular') format('svg');
 }
 
+@media only screen and (max-width: 400px) {
+.blockquote {
+    padding: 20px;
+    width: fit-content;
+    font-size: 14px;
+}
+}
+
 /* =============== General ===================== */
 html {
     overflow-x: hidden;
@@ -517,7 +525,7 @@ nav ul li:hover ul.mega {
 }
 
 .responsive-menu {
-    background: none repeat scroll 0 0 #efefef;
+    background: none repeat scroll 0 0 #333;
     float: left;
     width: 100%;
     padding: 10px 30px;

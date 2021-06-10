@@ -32,7 +32,7 @@
                     src="images/logoGoccia.gif" alt=""/></a></div><!-- Logo -->
         </div>
     </header><!-- Header -->
-    <div class="responsive-header" style="background-color: #4e4e4e">
+    <div class="responsive-header" style="background-color: black">
         <div class="responsive-menu">
             <div class="logo"><a href="index.jsp" title=""><img src="images/logoGoccia.gif" alt=""/></a></div>
         </div><!-- Responsive Menu -->

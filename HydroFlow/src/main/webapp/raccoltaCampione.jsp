@@ -80,7 +80,7 @@
                                 </div>
                             </div>
 
-                            <blockquote style="font-size: 15px"> Inoltrarci un campione d'acqua può essere molto utile per certificare la presenza di
+                            <blockquote class="blockquote" style="font-size: 15px"> Inoltrarci un campione d'acqua può essere molto utile per certificare la presenza di
                                 batteri all'interno dell'acqua e ci permette di agire in modo più veloce ed efficiente per la risoluzione
                                 del problema e la prevenzione dell'ambiente.
                             </blockquote>

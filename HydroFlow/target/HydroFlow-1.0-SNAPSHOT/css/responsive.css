@@ -171,4 +171,9 @@ body.move{margin-left:-200px;}
 .selectors a.button {width:100%;}
 .all-products .row > div {float: left;width:100%;}
 .simple-text > h3{font-size:20px;}
+.blockquote > blockquote{padding: 20px;font-size: 14px}
+}
+
+@media (max-width: 400px) {
+    .blockquote > blockquote{padding: 20px;font-size: 14px!important;}
 }
