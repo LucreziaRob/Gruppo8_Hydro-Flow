@@ -280,7 +280,7 @@
       document.getElementById('dialogbox').style.display = "none";
       document.getElementById('dialogoverlay').style.display = "none";
       //mettere cosa fare in caso di si
-      var jspcall = "confermaInoltroQuestionario.jsp"
+      var jspcall = "confermaInoltroFoto.jsp"
       window.location.href=jspcall
     }
     this.no = function(){

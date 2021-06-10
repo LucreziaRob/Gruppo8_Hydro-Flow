@@ -257,14 +257,16 @@
                                         <option>Fiume Sile</option>
                                         <option>Fiume Taglio del Sile</option>
                                     </datalist></div>
-                                <div class="col-md-12"><button title="" class="readmore button" type="submit" style="margin-top: 20px"><span>Grazie per il tuo aiuto <i class="fa fa-angle-double-right"></i></span></button></div>
                             </div>
+
+                            <div class="col-md-12"><button title="" class="readmore button" type="submit" onclick="Alert.render('Sicuro di voler inoltrare il questionario?')"><span>Inoltra<i class="fa fa-angle-double-right"></i></span></button></div>
                         </form>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
 
 
 
@@ -316,7 +318,14 @@
             </div>
         </div>
     </footer><!-- Footer -->
-
+    <div id="dialogoverlay"></div>
+    <div id="dialogbox">
+        <div>
+            <div id="dialogboxhead"></div>
+            <div id="dialogboxbody"></div>
+            <div id="dialogboxfoot"></div>
+        </div>
+    </div>
 </div>
 <script type="text/javascript" src="js/modernizr.custom.97074.js"></script>
 <script type="text/javascript" src="js/jquery2.1.3.js"></script>
@@ -423,6 +432,40 @@
         });
 
     });
+
+    function CustomAlert(){
+        this.render = function (dialog){
+            var winW = window.innerWidth;
+            var winH = window.innerHeight;
+            var dialogoverlay = document.getElementById('dialogoverlay');
+            var dialogbox = document.getElementById('dialogbox');
+            dialogoverlay.style.display = "block";
+            dialogoverlay.style.height = winH + "px";
+            dialogbox.style.left = (winW/2) - (550 * .5) + "px";
+            dialogbox.style.top = "100px";
+            dialogbox.style.display = "block";
+            document.getElementById('dialogboxhead').innerHTML = "Messaggio di Conferma";
+            document.getElementById('dialogboxbody').innerHTML = dialog;
+            document.getElementById('dialogboxfoot').innerHTML = '<button id="buttonInoltra" class="nav-path" onclick="Alert.ok()">Inoltra <i class="fa fa-angle-double-right"></i></button> <button id="buttonAnnulla" class="nav-path" onclick="Alert.no()">Annulla</button>'
+
+        }
+        this.ok = function(){
+            document.getElementById('dialogbox').style.display = "none";
+            document.getElementById('dialogoverlay').style.display = "none";
+            //mettere cosa fare in caso di si
+            var jspcall = "confermaInoltroSegnalazione.jsp"
+            window.location.href=jspcall
+        }
+        this.no = function(){
+            document.getElementById('dialogbox').style.display = "none";
+            document.getElementById('dialogoverlay').style.display = "none";
+            //mettere cosa fare in caso di no
+            //var jspcall = "monitoraFiume.jsp"
+            //window.location.href=jspcall
+        }
+    }
+
+    var Alert = new CustomAlert();
 </script>
 </body>
 
