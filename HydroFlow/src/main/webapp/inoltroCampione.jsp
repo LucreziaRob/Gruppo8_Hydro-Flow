@@ -121,7 +121,7 @@
 
 <footer>
   <div class="block">
-    <div class="parallax" style="background:url(http://placehold.it/1600x839);"></div>
+    <div class="parallax" style="background:url(images/90.jpeg);"></div>
     <div class="container">
       <div class="row">
         <div class="col-md-12 column">

@@ -85,7 +85,7 @@
                             quella
                             alla quale desidera inoltrare il campione per una successiva analisi in laboratorio.
                         </p>
-                        <blockquote> L'utente dovrà spedire il campione raccolto tramite corrire agli indirizzi mostrati</blockquote>
+                        <blockquote> L'utente dovrà spedire il campione raccolto tramite corrire agli indirizzi mostrati!</blockquote>
                         <p>Una volta che il campione sarà arrivato a destinazione le associazione si occuperanno di analizzare
                         e definire la percentuale di inquinamento che affligge il fiume.</p>
 
@@ -113,7 +113,7 @@
                             quali è libero di rispondere oppure no,
                             tramite le quali potrà stilare una prima analisi visiva del fiume che desidera monitorare. </p>
                         <blockquote>Cerca di compilare quanti più campi possibili, più informazione vengono fornite e più è facile comprendere le condizioni
-                        dell'acqua.</blockquote>
+                        dell'acqua!</blockquote>
                         <p>>Una volta inoltrato
                             il questionario verrà
                             processato e il modulo verrà preso in carico da associazioni competenti che si occuperanno
