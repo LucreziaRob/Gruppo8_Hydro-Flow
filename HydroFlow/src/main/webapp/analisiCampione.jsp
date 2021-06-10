@@ -281,7 +281,15 @@
                 <div class="col-md-6"><label>Si è indivisato un batterio? Quale</label></div>
                 <div class="col-md-6"><input type="text" /></div>
                 <div class="col-md-12"><textarea name="comments" id="comments"  placeholder="Descrizione"></textarea></div>
-                <div class="col-md-12"><button title="" class="readmore button" type="submit"><span>Inoltra campione<i class="fa fa-angle-double-right"></i></span></button></div>
+                  <div id="dialogoverlay"></div>
+                  <div id="dialogbox">
+                      <div>
+                          <div id="dialogboxhead"></div>
+                          <div id="dialogboxbody"></div>
+                          <div id="dialogboxfoot"></div>
+                      </div>
+                  </div>
+                  <div class="col-md-12"><button title="" class="readmore button" type="submit" onclick="Alert.render('Sicuro di voler inoltrare il questionario?')"><span>Inoltra<i class="fa fa-angle-double-right"></i></span></button></div>
               </div>
             </form>
           </div>
@@ -441,6 +449,39 @@
     });
 
   });
+  function CustomAlert(){
+      this.render = function (dialog){
+          var winW = window.innerWidth;
+          var winH = window.innerHeight;
+          var dialogoverlay = document.getElementById('dialogoverlay');
+          var dialogbox = document.getElementById('dialogbox');
+          dialogoverlay.style.display = "block";
+          dialogoverlay.style.height = winH + "px";
+          dialogbox.style.left = (winW/2) - (550 * .5) + "px";
+          dialogbox.style.top = "100px";
+          dialogbox.style.display = "block";
+          document.getElementById('dialogboxhead').innerHTML = "Messaggio di Conferma";
+          document.getElementById('dialogboxbody').innerHTML = dialog;
+          document.getElementById('dialogboxfoot').innerHTML = '<button id="buttonInoltra" class="nav-path" onclick="Alert.ok()">Inoltra <i class="fa fa-angle-double-right"></i></button> <button id="buttonAnnulla" class="nav-path" onclick="Alert.no()">Annulla</button>'
+
+      }
+      this.ok = function(){
+          document.getElementById('dialogbox').style.display = "none";
+          document.getElementById('dialogoverlay').style.display = "none";
+          //mettere cosa fare in caso di si
+          var jspcall = "confermaInoltroQuestionario.jsp"
+          window.location.href=jspcall
+      }
+      this.no = function(){
+          document.getElementById('dialogbox').style.display = "none";
+          document.getElementById('dialogoverlay').style.display = "none";
+          //mettere cosa fare in caso di no
+          //var jspcall = "monitoraFiume.jsp"
+          //window.location.href=jspcall
+      }
+  }
+
+  var Alert = new CustomAlert();
 </script>
 
 </body>

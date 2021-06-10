@@ -47,10 +47,61 @@
         </div>
     </div>
 </section>
+<footer>
+    <div class="block">
+        <div class="parallax"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 column">
+                    <div class="footer-widgets">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="widget">
+                                    <h4 class="widget-title">CHI <span>SIAMO</span>?</h4>
+                                    <p>Maecenas sit amet tincidu elit. Pellente sque habitant morbi is tristique
+                                        senectus tnetus et malesuada fames ac turpis eges tas lorem. Nulla facilisi.
+                                        Pellentesque habitant mors.</p>
 
-<div class="bottom-footer" style="background-color: #333333">
-    <br>
-</div><!-- Bottom Footer -->
+                                </div><!-- Widget -->
+                            </div>
+                            <div class="col-md-4">
+                                <div class="widget">
+                                    <h4 class="widget-title">CHI <span>LAVORA </span> CON NOI?</h4>
+                                    <div class="gallery-widget">
+                                        <div class="row">
+                                            <div class="col-md-4"><a data-rel="prettyPhoto" href="images/wwf.png"
+                                                                     title=""><img src="images/wwf.png" alt=""/></a>
+                                            </div>
+                                            <div class="col-md-4"><a data-rel="prettyPhoto"
+                                                                     href="images/legambiente.png" title=""><img
+                                                    src="images/legambiente.png" alt=""/></a></div>
+                                            <div class="col-md-4"><a data-rel="prettyPhoto"
+                                                                     href="images/protezioneCivile.jpg"
+                                                                     title=""><img src="images/protezioneCivile.jpg"
+                                                                                   alt=""/></a></div>
+                                        </div>
+                                    </div>
+                                </div><!-- Widget -->
+                            </div>
+                            <div class="col-md-4">
+                                <div class="widget">
+                                    <h4 class="widget-title"><span>CONTATTI</span></h4>
+                                    <ul>
+                                        <li><span>INDIRIZZI:</span>
+                                            <p>Università degli Studi di Salerno, Fisciano, Invariante 12/B, Via
+                                                Giovanni Paolo II, 132, 84084</p></li>
+                                        <li><span>TELEFONO:</span>
+                                            <p>089 962907</p></li>
+                                    </ul>
+                                </div><!-- Widget -->
+                            </div>
+                        </div>
+                    </div><!-- Footer Widget -->
+                </div>
+            </div>
+        </div>
+    </div>
+</footer><!-- Footer -->
 
 
 <script type="text/javascript" src="js/modernizr.custom.97074.js"></script>
