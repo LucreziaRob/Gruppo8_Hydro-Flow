@@ -30,7 +30,12 @@
             <div class="logo" style="width: 35%;display: block; margin-left: auto; margin-right: auto"><a href="#"
                                                                                                           title=""><img
                     src="images/logoGoccia.gif" alt=""
-                    style="display: block;margin-left: auto;margin-right: auto;"/></a></div><!-- Logo -->
+                    style="display: block;margin-left: auto;margin-right: auto;"/>
+                <a href="info.jsp"
+                   title=""><img src="images/download.png" style="display: block;margin-right: 10px; width: 50px; height: 50px"></a>
+                </a>
+            </div><!-- Logo -->
+
         </div>
     </header><!-- Header -->
     <div class="responsive-header">

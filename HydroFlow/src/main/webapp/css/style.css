@@ -5357,6 +5357,57 @@ div.ppt {
     animation-name: fadeOut
 }
 
+.shop-tittle {
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #2d3a4b;
+    padding-left: 15px;
+    position: relative;
+}
+.shop-tittle:before {
+    content: "";
+    height: 6px;
+    width: 6px;
+    background:  rgba(63, 117, 217, 0.7);
+    position: absolute;
+    left: 0px;
+    top: 6px;
+}
+.shop-cate a {
+    position: relative;
+    color: #2d3a4b;
+    line-height: 38px;
+    border-bottom: 1px solid #d1d5db;
+    display: inline-block;
+    width: 100%;
+    font-size: 14px;
+    padding-left: 10px;
+}
+.shop-cate li:nth-last-child(1) a {
+    border-bottom: none;
+}
+.shop-cate a span {
+    float: right;
+}
+.shop-cate a:before {
+    content: "";
+    height: 3px;
+    width: 1px;
+    line-height: 38px;
+    background: #2d3a4b;
+    position: absolute;
+    left: 0px;
+    top: 17px;
+}
+.shop-cate a:hover {
+    color:  rgba(63, 117, 217, 0.7);
+}
+.shop-tags li {
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+
 /*#dialogoverlay{
     display: none;
     opacity: .8;
