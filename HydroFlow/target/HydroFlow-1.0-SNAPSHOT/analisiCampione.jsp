@@ -89,7 +89,7 @@
             <form  class="contact-form" method="post" action="contact.php" name="contactform" id="contactform">
               <div class="row">
                 <div class="col-md-6"><label>Che fiume hai analizzato?</label></div>
-                <div class="col-md-6"><input type="text" name="list" list="lista1" required>
+                <div class="col-md-6"><input type="text" name="list" list="lista1">
                   <datalist id="lista1">
                     <option>Fiume Volturno</option>
                     <option>Fiume Ofanto</option>
@@ -255,7 +255,7 @@
                     <option>Fiume Taglio del Sile</option>
                   </datalist></div>
                 <div class="col-md-6"><label>Quando l'hai analizzato?</label></div>
-                <div class="col-md-6"><input type="date" required/></div>
+                <div class="col-md-6"><input type="date"/></div>
                 <div class="col-md-6"><label>Com'è si presenta il campione?</label></div>
                 <div class="col-md-6"><input type="text" name="list" list="lista">
                   <datalist id="lista">

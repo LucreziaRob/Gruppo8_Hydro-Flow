@@ -62,7 +62,9 @@
         <div class="row">
           <div class="col-md-12 column">
             <div class="title">
-              <p style="font-size:20px">Sicingio elitr, sed diam nonumy umod tempor invidu ntaliq muerat, sed diam dapibus <br/> vulputate est, quis tempus sapien tempor</p>
+              <p style="font-size:20px">Una volta che hai prelavato il tuo campione conservalo con cura e spediscilo tramite pacco,
+              contrassegnato <br/> con la scritta "Fragile", a una delle associazioni che lavorano con noi. Di seguito troverai tutti
+                <br/> i contatti e gli indirizzi delle associazioni a cui potrai spedirlo. <br/> Ci raccomandiamo di inserire come Mittente le associazioni.</p>
             </div><!-- Title -->
 
             <div class="blog-list">
