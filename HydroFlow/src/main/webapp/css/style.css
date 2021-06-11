@@ -133,7 +133,7 @@ section {
     float: left;
     width: 100%;
     position: relative;
-    padding: 120px 0;
+    padding: 98px 0;
 }
 
 .block1 {
@@ -5627,9 +5627,16 @@ a#buttonSlider:hover {
 }
 
 @media screen and (max-width: 300px) {
-  #sezioniMonitora{
-      left: 0%;
-  }
+    #sezioniMonitora {
+        left: 0%;
+    }
+
+
+    }
+@media screen and (max-width: 900px) {
+    .block {
+        padding: 0px 0px;
+    }
 }
 
 

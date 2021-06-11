@@ -35,7 +35,6 @@
       <div class="menus">
         <nav>
           <ul>
-
             <li><a href="" title="" style="font-size: 20px">Utility</a>
               <ul>
                 <li><a href="info.jsp" title="">Documentazione</a></li>
