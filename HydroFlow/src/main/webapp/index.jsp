@@ -37,13 +37,13 @@
                             <li><a href="#" title="">Traduzione pagina</a>
                                 <ul>
                                     <li><a href="#" title=""
-                                           onclick="Alert.render('Sicuro di voler tradutte il sito in italiano?')">Italiano</a>
+                                           onclick="Alert.render('Sicuro di voler tradurre il sito in italiano?')">Italiano</a>
                                     </li>
                                     <li><a href="#" title=""
-                                           onclick="Alert.render('Sicuro di voler tradutte il sito in inglese?')">Inglese</a>
+                                           onclick="Alert.render('Sicuro di voler tradurre il sito in inglese?')">Inglese</a>
                                     </li>
                                     <li><a href="#" title=""
-                                           onclick="Alert.render('Sicuro di voler tradutte il sito in francese?')">Francese</a>
+                                           onclick="Alert.render('Sicuro di voler tradurre il sito in francese?')">Francese</a>
                                     </li>
                                 </ul>
                             </li>
@@ -73,13 +73,13 @@
                 <li class="menu-item-has-children"><a href="" title="">Traduzione</a>
                     <ul>
                         <li><a href="#" title=""
-                               onclick="Alert.render('Sicuro di voler tradutte il sito in italiano?')">Italiano</a>
+                               onclick="Alert.render('Sicuro di voler tradurre il sito in italiano?')">Italiano</a>
                         </li>
                         <li><a href="#" title=""
-                               onclick="Alert.render('Sicuro di voler tradutte il sito in inglese?')">Inglese</a>
+                               onclick="Alert.render('Sicuro di voler tradurre il sito in inglese?')">Inglese</a>
                         </li>
                         <li><a href="#" title=""
-                               onclick="Alert.render('Sicuro di voler tradutte il sito in francese?')">Francese</a>
+                               onclick="Alert.render('Sicuro di voler tradurre il sito in francese?')">Francese</a>
                         </li>
                     </ul>
                 </li>
