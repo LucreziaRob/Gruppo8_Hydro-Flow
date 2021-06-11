@@ -32,17 +32,60 @@
 </head>
 <body>
 <div class="theme-layout">
-    <header class="stick transparent-header" style="background-color: black; opacity: 80%">
+    <header class="stick transparent-header">
         <div class="container">
-            <div class="logo" style="display: block; margin-left: auto; margin-right: auto"><a href="index.jsp"
-                                                                                               title=""><img
-                    src="images/logoGoccia.gif" alt=""/></a></div><!-- Logo -->
+            <div class="logo"><a href="#" title=""><img src="images/logoGoccia.gif" alt=""/></a></div><!-- Logo -->
+            <div class="menus">
+                <nav>
+                    <ul>
+
+                        <li><a href="" title="" style="font-size: 20px">Utility</a>
+                            <ul>
+                                <li><a href="info.jsp" title="">Documentazione</a></li>
+                                <li><a href="#" title="">Traduzione pagina</a>
+                                    <ul>
+                                        <li><a href="#" title=""
+                                               onclick="Alert.render('Sicuro di voler tradutte il sito in italiano?')">Italiano</a>
+                                        </li>
+                                        <li><a href="#" title=""
+                                               onclick="Alert.render('Sicuro di voler tradutte il sito in inglese?')">Inglese</a>
+                                        </li>
+                                        <li><a href="#" title=""
+                                               onclick="Alert.render('Sicuro di voler tradutte il sito in francese?')">Francese</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li><a href="#" title="">Task</a>
+                                    <ul>
+                                        <li><a href="raccoltaCampione.jsp" title="">Raccolta Campione</a></li>
+                                        <li><a href="sceltaPagine.jsp" title="">Monitora un Fiume</a></li>
+                                        <li><a href="segnalaFiume.jsp" title="">Segnala un fiume inquinato</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </nav><!-- Navigation -->
+
+            </div>
         </div>
     </header><!-- Header -->
-    <div class="responsive-header" style="background-color: #4e4e4e">
+    <div class="responsive-header">
         <div class="responsive-menu">
-            <div class="logo"><a href="index.jsp" title=""><img src="images/logoGoccia.gif" alt=""
-                                                                style="position: absolute; left: 0; right: 0; top: 5px;"/></a>
+            <div class="logo"><a href="#" title=""><img src="images/logoGoccia.gif" alt=""/></a></div>
+            <span class="open-menu"><i class="fa fa-align-justify"></i></span>
+            <div class="menu-links">
+                <ul>
+                    <li><a href="info.jsp" title="">Documentazione</a>
+                    </li>
+                    <li class="menu-item-has-children"><a href="" title="">Task</a>
+                        <ul>
+                            <li><a href="raccoltaCampione.jsp" title="">Raccolta Campione</a></li>
+                            <li><a href="sceltaPagine.jsp" title="">Monitora un Fiume</a></li>
+                            <li><a href="segnalaFiume.jsp" title="">Segnala un fiume inquinato</a></li>
+                        </ul>
+                    </li>
+                </ul>
             </div>
         </div><!-- Responsive Menu -->
     </div><!-- Responsive Header -->

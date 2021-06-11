@@ -40,19 +40,6 @@
             <li><a href="" title="" style="font-size: 20px">Utility</a>
               <ul>
                 <li><a href="info.jsp" title="">Documentazione</a></li>
-                <li><a href="#" title="">Traduzione pagina</a>
-                  <ul>
-                    <li><a href="#" title=""
-                           onclick="Alert.render('Sicuro di voler tradutte il sito in italiano?')">Italiano</a>
-                    </li>
-                    <li><a href="#" title=""
-                           onclick="Alert.render('Sicuro di voler tradutte il sito in inglese?')">Inglese</a>
-                    </li>
-                    <li><a href="#" title=""
-                           onclick="Alert.render('Sicuro di voler tradutte il sito in francese?')">Francese</a>
-                    </li>
-                  </ul>
-                </li>
                 <li><a href="#" title="">Task</a>
                   <ul>
                     <li><a href="raccoltaCampione.jsp" title="">Raccolta Campione</a></li>
@@ -112,14 +99,7 @@
                   <li data-transition="zoomout" data-slotamount="10" data-masterspeed="1000" >
                     <img src="images/compilaAnalisi.jpg"  alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                     <div class="tp-caption sfb slide-title" data-x="center" data-y="330" data-speed="500" data-start="1400" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:80px;">COMPILA ANALISI</div>
-                    <div class="tp-caption sft slide-desc" data-x="center" data-y="370"
-                         data-speed="500" data-start="1400" data-easing="Back.easeOut"
-                         data-captionhidden="on" style="font-size:16px; text-align:center;">Lorem
-                      ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam, autem ipsum
-                      dolor sit <br/> molestias nostrum suscipit doloribus, tempore dolorum
-                      corrupti. amet, consectetur
-                    </div>
-                  </li><!-- Slide 1 -->
+                   </li><!-- Slide 1 -->
 
                 </ul>
               </div>

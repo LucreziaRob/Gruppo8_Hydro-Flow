@@ -40,19 +40,6 @@
                         <li><a href="" title="" style="font-size: 20px">Utility</a>
                             <ul>
                                 <li><a href="info.jsp" title="">Documentazione</a></li>
-                                <li><a href="#" title="">Traduzione pagina</a>
-                                    <ul>
-                                        <li><a href="#" title=""
-                                               onclick="Alert.render('Sicuro di voler tradutte il sito in italiano?')">Italiano</a>
-                                        </li>
-                                        <li><a href="#" title=""
-                                               onclick="Alert.render('Sicuro di voler tradutte il sito in inglese?')">Inglese</a>
-                                        </li>
-                                        <li><a href="#" title=""
-                                               onclick="Alert.render('Sicuro di voler tradutte il sito in francese?')">Francese</a>
-                                        </li>
-                                    </ul>
-                                </li>
                                 <li><a href="#" title="">Task</a>
                                     <ul>
                                         <li><a href="raccoltaCampione.jsp" title="">Raccolta Campione</a></li>
