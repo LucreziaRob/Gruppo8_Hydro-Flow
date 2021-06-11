@@ -27,13 +27,33 @@
 <div class="theme-layout">
     <header class="stick transparent-header">
         <div class="container">
-
-            <div class="logo" style="width: 35%;display: block; margin-left: auto; margin-right: auto"><a href="#" title="">
-
-                <img src="images/logoGoccia.gif" alt="" style="display: block;margin-left: auto;margin-right: auto;"/>
-                </a>
+            <div class="logo"><a href="#" title=""><img src="images/logoGoccia.gif" alt="" /></a></div><!-- Logo -->
+            </a>
             </div><!-- Logo -->
-            <a href="info.jsp" title=""><img src="images/question.png" style="position: absolute;left: 5px;top: 0px;width: 50px; height: 50px;"></a>
+            <div class="menus">
+            <nav>
+                <ul>
+                    <li><a href="blog.html" title="">Blog</a>
+                        <ul>
+                            <li><a href="info.jsp" title="">Documentazione</a></li>
+                            <li><a href="#" title="">Traduzione pagina</a>
+                                <ul>
+                                    <li><a href="#" title="" onclick="Alert.render('Sicuro di voler tradutte il sito in italiano?')">Italiano</a></li>
+                                    <li><a href="#" title="" onclick="Alert.render('Sicuro di voler tradutte il sito in inglese?')">Inglese</a></li>
+                                    <li><a href="#" title="" onclick="Alert.render('Sicuro di voler tradutte il sito in francese?')">Francese</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#" title="">Task</a>
+                                <ul>
+                                    <li><a href="#" title="">Raccolta Campione</a></li>
+                                    <li><a href="#" title="">Monitora un Fiume</a></li>
+                                    <li><a href="#" title="">Segnala un fiume inquinato</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav><!-- Navigation -->
         </div>
     </header><!-- Header -->
 
@@ -322,6 +342,15 @@
         </div>
     </footer><!-- Footer -->
 
+    <div id="dialogoverlay"></div>
+    <div id="dialogbox">
+        <div>
+            <div id="dialogboxhead"></div>
+            <div id="dialogboxbody"></div>
+            <div id="dialogboxfoot"></div>
+        </div>
+    </div>
+
 </div>
 <script type="text/javascript" src="js/modernizr.custom.97074.js"></script>
 <script type="text/javascript" src="js/jquery2.1.3.js"></script>
@@ -429,6 +458,40 @@
         });
 
     });
+
+    function CustomAlert(){
+        this.render = function (dialog){
+            var winW = window.innerWidth;
+            var winH = window.innerHeight;
+            var dialogoverlay = document.getElementById('dialogoverlay');
+            var dialogbox = document.getElementById('dialogbox');
+            dialogoverlay.style.display = "block";
+            dialogoverlay.style.height = winH + "px";
+            dialogbox.style.left = (winW/2) - (550 * .5) + "px";
+            dialogbox.style.top = "100px";
+            dialogbox.style.display = "block";
+            document.getElementById('dialogboxhead').innerHTML = "Messaggio di Conferma";
+            document.getElementById('dialogboxbody').innerHTML = dialog;
+            document.getElementById('dialogboxfoot').innerHTML = '<button id="buttonInoltra" class="nav-path" onclick="Alert.ok()">Si <i class="fa fa-angle-double-right"></i></button> <button id="buttonAnnulla" class="nav-path" onclick="Alert.no()">No</button>'
+
+        }
+        this.ok = function(){
+            document.getElementById('dialogbox').style.display = "none";
+            document.getElementById('dialogoverlay').style.display = "none";
+            //mettere cosa fare in caso di si
+            var jspcall = "traduzione.jsp"
+            window.location.href=jspcall
+        }
+        this.no = function(){
+            document.getElementById('dialogbox').style.display = "none";
+            document.getElementById('dialogoverlay').style.display = "none";
+            //mettere cosa fare in caso di no
+            //var jspcall = "monitoraFiume.jsp"
+            //window.location.href=jspcall
+        }
+    }
+
+    var Alert = new CustomAlert();
 </script>
 
 </body>
