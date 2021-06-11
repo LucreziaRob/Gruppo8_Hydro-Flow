@@ -92,13 +92,6 @@
                     <img src="images/unnamed.jpg" alt="" />
                     <div class="project-overlay">
                       <div class="details">
-                        <div class="center">
-                          <h3><a href="project-detail.html" title="">Beautiful design</a></h3>
-                          <ul>
-                            <li><a href="#" title="">Desert</a></li>
-                            <li><a href="#" title="">Project</a></li>
-                          </ul>
-                        </div>
                       </div>
                     </div>
                   </div><!-- Project -->
@@ -112,11 +105,6 @@
                     <div class="project-overlay">
                       <div class="details">
                         <div class="center">
-                          <h3><a href="project-detail.html" title="">Beautiful design</a></h3>
-                          <ul>
-                            <li><a href="#" title="">Desert</a></li>
-                            <li><a href="#" title="">Project</a></li>
-                          </ul>
                         </div>
                       </div>
                     </div>
@@ -128,10 +116,10 @@
                     <div class="project-overlay">
                       <div class="details">
                         <div class="center">
-                          <h3><a href="project-detail.html" title="">Beautiful design</a></h3>
+                          <h3><a href="project-detail.html" title=""></a></h3>
                           <ul>
-                            <li><a href="#" title="">Desert</a></li>
-                            <li><a href="#" title="">Project</a></li>
+                            <li><a href="#" title=""></a></li>
+                            <li><a href="#" title=""></a></li>
                           </ul>
                         </div>
                       </div>
@@ -144,11 +132,6 @@
                     <div class="project-overlay">
                       <div class="details">
                         <div class="center">
-                          <h3><a href="project-detail.html" title="">Beautiful design</a></h3>
-                          <ul>
-                            <li><a href="#" title="">Desert</a></li>
-                            <li><a href="#" title="">Project</a></li>
-                          </ul>
                         </div>
                       </div>
                     </div>
@@ -168,7 +151,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="title">
-              <span>Hai scattato delle foto al fiume?</span>
+              <h2>Hai scattato delle foto al fiume?</h2>
               <h2>Inoltra <span>una foto</span></h2>
               <p></p>
               <div class="col-md-6" style="margin-top: 20px"><label>Inserisci una foto</label></div>
