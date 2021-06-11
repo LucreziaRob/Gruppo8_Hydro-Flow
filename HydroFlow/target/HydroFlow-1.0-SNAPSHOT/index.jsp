@@ -27,20 +27,20 @@
 <div class="theme-layout">
     <header class="stick transparent-header">
         <div class="container">
-            <div class="logo" style="width: 35%;display: block; margin-left: auto; margin-right: auto"><a href="#"
-                                                                                                          title=""><img
-                    src="images/logoGoccia.gif" alt=""
-                    style="display: block;margin-left: auto;margin-right: auto;"/>
-                <a href="info.jsp"
-                   title=""><img src="images/download.png" style="display: block;margin-right: 10px; width: 50px; height: 50px"></a>
+
+            <div class="logo" style="width: 35%;display: block; margin-left: auto; margin-right: auto"><a href="#" title="">
+
+                <img src="images/logoGoccia.gif" alt="" style="display: block;margin-left: auto;margin-right: auto;"/>
                 </a>
             </div><!-- Logo -->
-
+            <a href="info.jsp" title=""><img src="images/question.png" style="position: absolute;left: 5px;top: 0px;width: 50px; height: 50px;"></a>
         </div>
     </header><!-- Header -->
+
     <div class="responsive-header">
         <div class="responsive-menu">
-            <div class="logo"><a href="#" title=""><img src="images/logoGoccia.gif" alt=""/></a></div>
+            <div class="logo"><a href="#" title=""><img src="images/logoGoccia.gif" alt="" style="position: absolute;left: 0;right: 0;top: 5px;"/></a></div>
+            <a href="info.jsp" title=""><img src="images/question.png" style="position: absolute;left: 5px;top: 0px;width: 50px; height: 50px;"></a>
         </div><!-- Responsive Menu -->
     </div><!-- Responsive Header -->
 

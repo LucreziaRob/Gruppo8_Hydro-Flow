@@ -38,7 +38,7 @@
   </header><!-- Header -->
   <div class="responsive-header">
     <div class="responsive-menu">
-      <div class="logo"><a href="index.jsp" title=""><img src="images/logoGoccia.gif" alt=""/></a></div>
+      <div class="logo"><a href="index.jsp" title=""><img src="images/logoGoccia.gif" alt="" style="position: absolute;left: 0;right: 0;top: 5px;"/></a></div>
     </div><!-- Responsive Menu -->
   </div><!-- Responsive Header -->
 
