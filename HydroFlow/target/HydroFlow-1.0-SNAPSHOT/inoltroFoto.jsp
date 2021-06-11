@@ -75,7 +75,7 @@
 
 
   <section>
-    <div class="block gray">
+    <div class="block2 gray">
       <nav style="margin-left: 10px">
         <a href="index.jsp" class="nav-path" style="border-color: #f4f6ff">HOME</a>&nbsp|&nbsp
         <a href="inoltroFoto.jsp" class="nav-path" style="border-color: #f4f6ff">INOLTRA FOTO</a>

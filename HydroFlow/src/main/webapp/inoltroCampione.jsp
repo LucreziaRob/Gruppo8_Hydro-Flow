@@ -85,7 +85,7 @@
 
   <section>
 
-    <div class="block gray">
+    <div id="inoltroCampione" class="block gray">
       <nav style="margin-left: 10px; margin-top: -230px">
         <a href="index.jsp" class="nav-path" style="border-color: #f4f6ff">HOME</a>&nbsp|&nbsp
         <a href="raccoltaCampione.jsp" class="nav-path" style="border-color: #f4f6ff">RACCOLTA CAMPIONE</a>&nbsp|&nbsp

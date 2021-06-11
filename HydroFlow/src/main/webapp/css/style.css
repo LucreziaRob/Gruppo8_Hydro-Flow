@@ -129,7 +129,14 @@ section {
     width: 100%;
 }
 
-.block {
+.block{
+    float: left;
+    width: 100%;
+    position: relative;
+    padding: 120px 0;
+}
+
+.block2 {
     float: left;
     width: 100%;
     position: relative;
@@ -5634,9 +5641,12 @@ a#buttonSlider:hover {
 
     }
 @media screen and (max-width: 900px) {
-    .block {
+    .block2 {
         padding: 0px 0px;
     }
+#inoltroCampione.block{
+    padding: 120px 0px;
+}
 }
 
 
