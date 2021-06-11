@@ -39,9 +39,8 @@
   <div class="responsive-header">
     <div class="responsive-menu">
       <div class="logo"><a href="index.jsp" title=""><img src="images/logoGoccia.gif" alt="" style="position: absolute;left: 0;right: 0;top: 5px;"/></a></div>
-    </div><!-- Responsive Menu -->
-  </div><!-- Responsive Header -->
-
+    </div>
+  </div>
 
   <section>
     <div class="block remove-gap remove-bottom gray">
@@ -59,19 +58,68 @@
                          data-speed="500" data-start="1400" data-easing="Back.easeOut"
                          data-captionhidden="on" style="font-size:20px; text-align:center; font-family: Roboto; letter-spacing:5px; font-weight: bolder; margin-top: 20px; background-color: rgba(0,0,0,0.34); padding: 20px;"> HAI VISTO UN FIUME INQUINATO? INVIACI UNA FOTO O MONITORALO!
                     </div>
-                  </li><!-- Slide 1 -->
+                  </li>
 
                 </ul>
               </div>
-            </div><!-- REVOLUTION SLIDER -->
-          </div><!-- Slider -->
+            </div>
+          </div>
         </div>
       </div>
     </div>
   </section>
-
-
   <section>
+    <div class="block gray remove-gap">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 column">
+            <div class="row narrow">
+              <div class="masonary overlap">
+                <div class="col-md-4">
+                  <div class="links">
+                    <div class="link-inner">
+                      <strong>01</strong>
+                      <i><img src="images/camera.png" style="width: 93px; height: 93px"></i>
+                      <span style="font-size:20px; margin:40px 0px 40px;">Inoltra una foto</span>
+                      <h3><a href="inoltroFoto.jsp" title="" class="bouncy">VAI </a></h3>
+                    </div>
+                  </div><!-- Links -->
+                </div>
+                <div class="col-md-4" style="visibility: hidden">
+                  <div class="links">
+                    <div class="link-inner">
+                      <strong>02</strong>
+                      <i><img src="images/binoculars.png" style="width: 95px; height: 95px"></i>
+                      <span style="font-size:20px; margin:40px 0px 40px;">Monitora un fiume</span>
+                      <h3><a href="sceltaPagine.jsp" title="" class="bouncy"
+                             style="animation-delay:0.07s">VAI </a></h3>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <div class="links">
+                    <div class="link-inner">
+                      <strong>03</strong>
+                      <i><img src="images/reports.png" style="width: 95px; height: 95px"></i>
+                      <span style="font-size:20px; margin:40px 0px 40px;">Monitora un fiume</span>
+                      <h3><a href="monitoraFiume.jsp" title="" class="bouncy"
+                             style="animation-delay:0.14s">VAI </a></h3>
+                    </div>
+                  </div><!-- Links -->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a name="arrivo"></a>
+    </div>
+
+  </section>
+
+
+
+  <!--<section>
     <div class="block gray remove-gap">
       <div class="container">
         <div class="row" style="display: block; margin-left: auto; margin-right: auto">
@@ -86,7 +134,7 @@
                       <span style="font-size:20px; margin:40px 0px 40px;">Inoltra una foto</span>
                       <h3><a href="inoltroFoto.jsp" title="" class="bouncy">VAI </a></h3>
                     </div>
-                  </div><!-- Links -->
+                  </div>
                 </div>
                 <div class="col-md-4">
                   <div class="links">
@@ -96,7 +144,7 @@
                       <span style="font-size:20px; margin:40px 0px 40px;">Monitora un fiume</span>
                       <h3><a href="monitoraFiume.jsp" title="" class="bouncy">VAI </a></h3>
                     </div>
-                  </div><!-- Links -->
+                  </div>
                 </div>
               </div>
             </div>
@@ -104,7 +152,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section>-->
 
   <footer>
     <div class="block">
