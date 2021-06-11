@@ -29,7 +29,7 @@
 </head>
 <body>
 <div class="theme-layout" >
-  <header class="stick transparent-header">
+  <header class="stick transparent-header" style="background: #424040">
     <div class="container">
       <div class="logo"><a href="index.jsp" title=""><img src="images/logoGoccia.gif" alt=""/></a></div><!-- Logo -->
       <div class="menus">

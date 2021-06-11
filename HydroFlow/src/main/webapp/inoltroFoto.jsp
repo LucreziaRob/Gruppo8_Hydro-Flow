@@ -29,13 +29,12 @@
 </head>
 <body>
 <div class="theme-layout" >
-  <header class="stick transparent-header">
+  <header class="stick transparent-header" style="background: #424040">
     <div class="container">
       <div class="logo"><a href="index.jsp" title=""><img src="images/logoGoccia.gif" alt=""/></a></div><!-- Logo -->
       <div class="menus">
         <nav>
           <ul>
-
             <li><a href="" title="" style="font-size: 20px">Utility</a>
               <ul>
                 <li><a href="info.jsp" title="">Documentazione</a></li>
