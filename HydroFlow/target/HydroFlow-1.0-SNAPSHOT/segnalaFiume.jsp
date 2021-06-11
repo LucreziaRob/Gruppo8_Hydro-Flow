@@ -38,7 +38,7 @@
     </header><!-- Header -->
     <div class="responsive-header">
         <div class="responsive-menu">
-            <div class="logo"><a href="index.jsp" title=""><img src="images/logoGoccia.gif" alt="" /></a></div>
+            <div class="logo"><a href="index.jsp" title=""><img src="images/logoGoccia.gif" alt="" style="position: absolute;left: 0;right: 0;top: 5px;" /></a></div>
         </div><!-- Responsive Menu -->
     </div>
 
@@ -53,14 +53,7 @@
                                 <ul>
                                     <li data-transition="zoomout" data-slotamount="10" data-masterspeed="1000" >
                                         <img src="images/water_pollution.jpg"  alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" style="background-position-y: -200px;height: 60%;">
-                                        <div class="tp-caption sfb slide-title" data-x="center" data-y="330" data-speed="500" data-start="1400" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:80px;">SEGNALA UN FIUME INQUINATO</div>
-                                        <div class="tp-caption sft slide-desc" data-x="center" data-y="370"
-                                             data-speed="500" data-start="1400" data-easing="Back.easeOut"
-                                             data-captionhidden="on" style="font-size:16px; text-align:center;">Lorem
-                                            ipsum dolor sit amet, consectetur adipisicing elit. Et aliquam, autem ipsum
-                                            dolor sit <br/> molestias nostrum suscipit doloribus, tempore dolorum
-                                            corrupti. amet, consectetur
-                                        </div>
+                                        <div id="labelSegnala" class="tp-caption sfb slide-title" data-x="0" data-speed="500" data-start="1400" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:80px; top: 550px;">SEGNALA UN FIUME INQUINATO</div>
                                     </li><!-- Slide 1 -->
 
                                 </ul>
@@ -303,7 +296,7 @@
                                     <div class="widget">
                                         <h4 class="widget-title"><span>CONTATTI</span></h4>
                                         <ul>
-                                            <li><span>INDIRIZZI:</span><p>Università degli Studi di Salerno, Fiscino,  Invariante 12/B, Via Giovanni Paolo II, 132, 84084</p></li>
+                                            <li><span>INDIRIZZI:</span><p>Università degli Studi di Salerno, Fisciano,  Invariante 12/B, Via Giovanni Paolo II, 132, 84084</p></li>
                                             <li><span>TELEFONO:</span><p>089 962907</p></li>
                                         </ul>
                                     </div><!-- Widget -->

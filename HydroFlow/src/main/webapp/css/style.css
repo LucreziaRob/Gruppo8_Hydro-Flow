@@ -5626,11 +5626,13 @@ a#buttonSlider:hover {
     }
 }
 
-@media screen and (max-width: 1263px) {
-    #labelSegnala{
-        top: 200px;
-    }
+@media screen and (max-width: 300px) {
+  #sezioniMonitora{
+      left: 0%;
+  }
 }
+
+
 
 
 

@@ -77,7 +77,7 @@
         <div class="row" style="display: block; margin-left: auto; margin-right: auto">
           <div class="col-md-12 column">
             <div class="row narrow">
-              <div class="masonary overlap" style="left: 200px">
+              <div id="sezioniMonitora" class="masonary overlap" style="left: 20%">
                 <div class="col-md-4">
                   <div class="links">
                     <div class="link-inner">
@@ -138,7 +138,7 @@
                   <div class="widget">
                     <h4 class="widget-title"><span>CONTATTI</span></h4>
                     <ul>
-                      <li><span>INDIRIZZI:</span><p>Università degli Studi di Salerno, Fiscino,  Invariante 12/B, Via Giovanni Paolo II, 132, 84084</p></li>
+                      <li><span>INDIRIZZI:</span><p>Università degli Studi di Salerno, Fisciano,  Invariante 12/B, Via Giovanni Paolo II, 132, 84084</p></li>
                       <li><span>TELEFONO:</span><p>089 962907</p></li>
                     </ul>
                   </div><!-- Widget -->

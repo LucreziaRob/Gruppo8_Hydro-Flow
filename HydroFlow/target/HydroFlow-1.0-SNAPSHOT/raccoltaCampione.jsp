@@ -196,7 +196,7 @@
                                     <h4 class="widget-title"><span>CONTATTI</span></h4>
                                     <ul>
                                         <li><span>INDIRIZZI:</span>
-                                            <p>Università degli Studi di Salerno, Fiscino, Invariante 12/B, Via
+                                            <p>Università degli Studi di Salerno, Fisciano, Invariante 12/B, Via
                                                 Giovanni Paolo II, 132, 84084</p></li>
                                         <li><span>TELEFONO:</span>
                                             <p>089 962907</p></li>

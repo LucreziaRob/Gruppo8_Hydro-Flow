@@ -36,7 +36,7 @@
   </header><!-- Header -->
   <div class="responsive-header" style="background-color: #4e4e4e">
     <div class="responsive-menu">
-      <div class="logo"><a href="index.jsp" title=""><img src="images/logoGoccia.gif" alt="" /></a></div>
+      <div class="logo"><a href="index.jsp" title=""><img src="images/logoGoccia.gif" alt="" style="position: absolute;left: 0;right: 0;top: 5px;"/></a></div>
     </div><!-- Responsive Menu -->
   </div><!-- Responsive Header -->
 
@@ -160,7 +160,7 @@
                   <h4 class="widget-title"><span>CONTATTI</span></h4>
                   <ul>
                     <li><span>INDIRIZZI:</span>
-                      <p>Università degli Studi di Salerno, Fiscino, Invariante 12/B, Via
+                      <p>Università degli Studi di Salerno, Fisciano, Invariante 12/B, Via
                         Giovanni Paolo II, 132, 84084</p></li>
                     <li><span>TELEFONO:</span>
                       <p>089 962907</p></li>
