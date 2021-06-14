@@ -78,7 +78,7 @@
   <div class="page-top">
     <div style="background:url(images/90.jpeg);" class="parallax"></div>
     <div class="container">
-      <h3 style="margin-top: 100px">INOLTRA IL CAMPIONE AD UNA <i>ASSOCIAZIONE</i></h3>
+      <h3 style="margin-top: 100px">INOLTRA IL CAMPIONE AD UNA ASSOCIAZIONE</h3>
     </div>
   </div>
 </div>

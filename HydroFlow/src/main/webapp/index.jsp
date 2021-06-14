@@ -141,10 +141,10 @@
                                         immensa e<br/>
                                         anche il nostro corp è per il 75% composto di acqua. L'acqua è indispensabile
                                         per la nostra<br/>
-                                        salute: bbere acqua serve infatti a mantenere sani i nostri organi e a
+                                        salute: bere acqua serve infatti a mantenere sani i nostri organi e a
                                         sostituire <br/>i liquidi
                                         che perdiamo con la respirazione, il sudore e la digestione. L'acqua è
-                                        quindi<br/> un elemento fondamnetale
+                                        quindi<br/> un elemento fondamentale
                                         per la vita sul e del nostro pianeta.
 
                                     </div>

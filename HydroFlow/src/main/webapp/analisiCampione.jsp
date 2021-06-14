@@ -290,7 +290,7 @@
                   </datalist></div>
                 <div class="col-md-6"><label>Qual è la carica microbica a 22°C?</label></div>
                 <div class="col-md-6"><input type="text" /></div>
-                <div class="col-md-6"><label>Qual è la carica microbica a 22°C?</label></div>
+                <div class="col-md-6"><label>Qual è la carica microbica a 36°C?</label></div>
                 <div class="col-md-6"><input type="text" /></div>
                 <div class="col-md-6"><label>Qual è il PH dell'acqua?</label></div>
                 <div class="col-md-6"><input type="text" /></div>
