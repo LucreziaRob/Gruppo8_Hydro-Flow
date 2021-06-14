@@ -31,7 +31,7 @@
             <nav>
                 <ul>
 
-                    <li><a href="" title="" style="font-size: 20px">Utility</a>
+                    <li><a href="" title="" style="font-size: 20px; font-family: 'Pumpkin Story'; letter-spacing: 5px">Utility</a>
                         <ul>
                             <li><a href="info.jsp" title="">Documentazione</a></li>
                             <li><a href="#" title="">Traduzione pagina</a>
@@ -127,7 +127,7 @@
                                          data-bgposition="left top" data-bgrepeat="no-repeat">
                                     <div class="tp-caption sft slide-title2" data-x="center" data-y="275"
                                          data-speed="500" data-start="1000" data-easing="Back.easeOut"
-                                         data-captionhidden="on" style="font-size:70px;letter-spacing:15px; ">
+                                         data-captionhidden="on" style="font-size:70px;letter-spacing:10px; color: #FFFFFF">
                                         <i>L'ACQUA</i>
                                     </div>
                                     <div class="tp-caption sft slide-desc" data-x="center" data-y="370"
@@ -152,7 +152,7 @@
 
                                 <li data-transition="fadetotopfadefrombottom" data-slotamount="10"
                                     data-masterspeed="1000">
-                                    <img src="images/fiume3.jpg" alt="slidebg3" data-bgfit="cover"
+                                    <img src="images/fiume4.jpg" alt="slidebg3" data-bgfit="cover"
                                          data-bgposition="left top" data-bgrepeat="no-repeat">
                                     <div class="tp-caption sfb slide-title" data-x="0" data-y="240" data-speed="500"
                                          data-start="2000" data-easing="Back.easeOut" data-captionhidden="on"

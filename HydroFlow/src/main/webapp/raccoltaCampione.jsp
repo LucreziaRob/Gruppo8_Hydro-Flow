@@ -149,7 +149,7 @@
                             </div>
                         </div>
 
-                        <p style="font-size: 17px;">Il tuo contributo potrebbe essere fondamentale per la salvaguardia
+                        <p style="font-size: 19px;font-weight: bold; color: #0c0c0b">Il tuo contributo potrebbe essere fondamentale per la salvaguardia
                             dell'ecosistema che
                             ti circonda. L'inquinamento arriva ai fiumi come scarichi localizzati, ad esempio le
                             fognature, oppure
@@ -163,18 +163,19 @@
                             malattie, piogge acide, scarsità di piogge e soprattutto fa si che ci sia carenza
                             d’ossigeno.</p>
                     </div>
+
                 </div>
                 <div class="col-md-offset-2 col-md-8 column">
                     <form class="contact-form" method="post" action="contact.php" name="contactform"
                           id="contactform">
                         <div class="row">
                             <div class="col-md-6">
-                                <a class="readmore button" href="inoltroCampione.jsp"><span>Inoltra campione<i
-                                        class="fa fa-angle-double-right"></i></span></a>
+                                <a id="buttonSlider1" href="inoltroCampione.jsp" style="animation-delay:0.07s"; >Inoltra campione <i
+                                            class="fa fa-angle-double-right"></i></a>
                             </div>
                             <div class="col-md-6">
-                                <a class="readmore button" href="analisiCampione.jsp"><span>Compila analisi<i
-                                        class="fa fa-angle-double-right"></i></span></a>
+                                <a id="buttonSlider2" href="analisiCampione.jsp" style="animation-delay:0.07s"; >Compila analisi <i
+                                        class="fa fa-angle-double-right"></i></a>
                             </div>
                         </div>
                     </form>
