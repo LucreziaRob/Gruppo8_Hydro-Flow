@@ -35,7 +35,7 @@
       <div class="menus">
         <nav>
           <ul>
-            <li><a href="" title="" style="font-size: 20px">Utility</a>
+            <li><a href="" title="" style="font-size: 20px;font-family: 'Pumpkin Story'; letter-spacing: 5px">Utility</a>
               <ul>
                 <li><a href="info.jsp" title="">Documentazione</a></li>
                 <li><a href="#" title="">Task</a>
@@ -80,6 +80,10 @@
         <a href="index.jsp" class="nav-path" style="border-color: #f4f6ff">HOME</a>&nbsp|&nbsp
         <a href="inoltroFoto.jsp" class="nav-path" style="border-color: #f4f6ff">INOLTRA FOTO</a>
       </nav>
+
+      <div>
+        <h2 style="font-size: 40px; margin-top: 2%; margin-left: 30%;margin-bottom: 1% ">CI INVIANO..</h2>
+      </div>
 
       <div class="container">
 
@@ -151,10 +155,10 @@
         <div class="row">
           <div class="col-md-12">
             <div class="title">
-              <h2>Hai scattato delle foto al fiume?</h2>
-              <h2>Inoltra <span>una foto</span></h2>
+              <h2>Hai scattato anche tu delle foto ad un fiume?</h2>
+              <h2>Inoltraci <span>una foto</span></h2>
               <p></p>
-              <div class="col-md-6" style="margin-top: 20px"><label>Inserisci una foto</label></div>
+              <div class="col-md-6" style="margin-top: 20px; font-size: 20px"><label>Inserisci una foto</label></div>
               <div class="col-md-6" style="border: 1px solid white; display: inline-block; padding: 6px 12px; cursor: pointer; background-color: white; width: 300px; margin-top: 20px"><input type="file" name="foto" accept=".jpg, .png, .jpeg, .gif"></div>
 
               <div class="col-md-12" style="margin-top: 60px"><a title="" class="readmore button" type="submit" id="submit" onclick="Alert.render('Sicuro di voler inoltrare il questionario?')"><span>Inoltra<i class="fa fa-angle-double-right"></i></span></a></div>

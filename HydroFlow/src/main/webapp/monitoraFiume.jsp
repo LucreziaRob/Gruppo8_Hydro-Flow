@@ -37,7 +37,7 @@
         <nav>
           <ul>
 
-            <li><a href="" title="" style="font-size: 20px">Utility</a>
+            <li><a href="" title="" style="font-size: 20px;font-family: 'Pumpkin Story'; letter-spacing: 5px">Utility</a>
               <ul>
                 <li><a href="info.jsp" title="">Documentazione</a></li>
                 <li><a href="#" title="">Task</a>
@@ -85,7 +85,7 @@
               <div class="tp-banner">
                 <ul>
                   <li data-transition="zoomout" data-slotamount="10" data-masterspeed="1000" >
-                    <img src="images/monitoraFiume.jpg"  alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" style="height: 70%">
+                    <img src="images/monitoraggio.jpg"  alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" style="height: 70%">
                     <div class="tp-caption sfb slide-title" data-x="center" data-y="330" data-speed="500" data-start="1400" data-easing="Back.easeOut" data-captionhidden="on" style="font-size:80px;">MONITORA UN FIUME</div>
                   </li><!-- Slide 1 -->
 
